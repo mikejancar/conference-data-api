@@ -1,0 +1,1562 @@
+{
+  "conferences": [
+    {
+      "id": 1,
+      "name": "DevIntersection 2019",
+      "sessions": [
+        {
+          "id": 1,
+          "name": "ANGULAR FUNDAMENTALS",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Dan Wahlin,John Papa",
+          "description": "Bring your laptop, as you’ll be writing Angular code using what you learn in several hands-on exercises. This workshop will cover the latest version of Angular. Do you want to get a jumpstart on developing with Angular so you can build robust Web applications? Join us and learn how to work with data binding, create components, and communicate across components with input/output bindings. We'll show how to abstract logic into client-side services, provide services using the Angular injectors, and take advantage of dependency injection. When it's time to communicate with a server, we'll need to talk over HTTP. We'll learn how to send and receive data to and from a server using Http and use RxJS and observables. You'll also learn how to get up and running quickly with the Angular CLI. Bring your laptop, as you’ll be writing Angular code using what you learn in several hands-on exercises."
+        },
+        {
+          "id": 2,
+          "name": "DEEP LEARNING FOR DEVELOPERS HANDS-ON",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Ciprian Jichici,Zoiner Tejada",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. Deep learning is at the center of many exciting application innovations, and yet deep learning is also a way you can safely upgrade your existing applications with powerful new capabilities. This hands-on workshop is not about extremely forward looking innovation with deep learners that will take many years and specialized experts to create- it is not about creating the next self-driving car or champion level video game playing agent. This workshop IS about the innovations that you, the enterprise developer, can add to your applications today by learning just a few techniques and by having the confidence gained by knowing how such techniques are applied. Most enterprises have challenges with three kinds of data: structured data (think databases and time series), text and images or video. These are all data types for which deep learning has practical uses you can apply today. In this workshop you will train, evaluate and deploy deep learning models in Azure for each of these three data types, show casing techniques for text analytics/mining, computer vision and forecasting. These are fundamental techniques you will be able to apply to your applications after attending this workshop. So sign-up, come with your fully charged laptop and let’s get some innovation tackled together."
+        },
+        {
+          "id": 3,
+          "name": "DEVELOPER'S SQL SERVER RECIPE BOOK",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Brent Ozar",
+          "description": "You and your team have to build a lot of queries: transactional insert/update/deletes, batch jobs, and reports. You're comfortable writing queries to get data in and out, but they're just not as fast as you'd like. You're looking for a set of examples that you can follow - plus a list of anti-patterns that seem good until they just don't scale. I'm Brent Ozar, recovering developer and now a DBA. I'll share my favorite T-SQL starting points for different business requirements. We'll implement them on the Stack Overflow database, and you can follow along on your laptop. We'll cover techniques like pagination, row-level security, building and maintaining denormalized reporting tables, and passing lists of parameters into procedures"
+        },
+        {
+          "id": 4,
+          "name": "I WILL MAKE YOU A BETTER C# DEVELOPER – 2019 EDITION",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Kathleen Dollard",
+          "description": "You’re an intermediate to advanced C# programmer excited about attending a conference filled with cutting edge talks from amazing speakers. It’s important to stay up to date, but you keep wondering if you’re effectively using new features and fundamental aspects of C# and .NET. You’ll learn more about the type system. Along with its garbage collector it remains the foundation of all variations of .NET. You’ll also see how delegates have evolved while remaining one of the most important building blocks. You’ll see a sampling of ways that C# and the .NET can surprise you, in possibly unpleasant ways. You’ll look back at effectively using generics, how to use new generic constraints, type hierarchies, and the complex signatures that can result from tuples and functional techniques. You’ll dive into async to see some of the most common mistakes, recognise places that async isn’t gong to help, and understand how to use async to improve server throughput or desktop responsiveness. You’ll learn a bit about the Roslyn compiler and how it allows editors to change your relationship with code. You’ll see how Visual Studio and Visual Studio Code can remove mundane aspects of code reviews, protect you from common mistakes, overlay code coverage and provide tricks for navigation, selection and search. Some of this is based on rules implemented as analysers and code fixes. You’ll learn how to provide these details for all of your code, or customise rules for each project or repository. You’ll go on a tour of recent features. C# 6.0 to C# 7.3 includes things like tuples and local functions that can be used well, or badly. Also, recent releases of .NET Core include features like ref struct, Span and Memory that can be hard to understand and use correctly. You’ll take a look forward at new C# 8 techniques that change the way you interact with nulls, manage async streams and features not yet decided. Throughout the day the focus is on how you can use these features and techniques to make the code you write better – more reliable, easier to comprehend, and better performing."
+        },
+        {
+          "id": 5,
+          "name": "INTRODUCING DOMAIN-DRIVEN DESIGN FOR ASP.NET CORE DEVELOPERS DAY 1",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Steve Smith",
+          "description": "Workshop will have some hands-on labs. Bring your own fully charged laptop. Domain-Driven Development helps developers build robust, maintainable software that addresses real business complexity. ASP.NET Core is very well-suited to this style of development. In this full day HANDS-ON workshop, you'll be introduced to the fundamentals of Domain-Driven Design as they apply to ASP.NET Core applications. By the end of the day, you'll have built and tested a small ASP.NET Core application using several DDD patterns and using the Clean Architecture approach. This workshop can be continued into day 2 by registering for \"Applying DDD Patterns to ASP.NET Core Applications.\" Note: This workshop will include hands-on labs. Bring your own fully charged laptop. Look for an email with software prerequisites and \"Lab 0\" instructions the week before the workshop."
+        },
+        {
+          "id": 6,
+          "name": "LEVELING UP WITH POWERSHELL FOR THE DBA",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Ben Miller",
+          "description": "Ever wonder what the buzz is about using SQL Server and PowerShell together? If so, you are not alone, as more and more people are discovering how PowerShell can make a DBA's life easier. In this full-day and intense workshop we'll start by covering some fundamentals about the combination of SQL with PowerShell and then dive into the PowerShell modules that are out there that will make your DBA life so much better. We'll first look at the SQLServer module from Microsoft and then move on to the popular DBATools module (https://dbatools.io) created by Chrissy LeMaire. There are so many great functions out in the community that you're going to find useful so we'll cover those and you'll learn how you can best leverage them in your environment. Additionally, I'll show you how to create your own shortcut functions that use these modules so you don’t have to be so verbose every time you want to use them. And apart from walking through what functions exist and how they're useful, I'll show you my real-world uses for them - essentially how I leverage them in my daily DBA life. Join me for a day of discovering how PowerShell can make your DBA work easier and more efficient so you're more productive. Everything you learn will be immediately applicable when you get back home to your office!"
+        },
+        {
+          "id": 7,
+          "name": "MIGRATING TO SQL SERVER 2019",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Glenn Berry",
+          "description": "How do you design and implement a safe and successful migration from an older version of SQL Server to SQL Server 2019 with no data loss and virtually no downtime? What if you have a limited hardware budget for the upgrade effort and you are worried about the core-based licensing in SQL Server 2019? How can you choose your hardware wisely in light of the current licensing model? How can you convince your organization that the time is right to upgrade to SQL Server 2019? This session will cover several different methods for migrating your data to SQL Server 2019 while meeting these objectives and minimizing your hardware and licensing costs. You will also learn how to help make the case that a complete data platform upgrade makes excellent sense from a technical and business perspective. You will also learn how to do effective capacity planning for the new environment to ensure that you have the best performance possible with a manageable SQL Server 2019 licensing cost. You learn about the new compatibility model and related configuration options that are crucial for query performance with modern versions of SQL Server. This session is applicable for SQL Server 2016 through SQL Server 2019."
+        },
+        {
+          "id": 8,
+          "name": "SECURING MODERN APPLICATIONS AND APIS WITH ASP.NET CORE 2: DAY 1",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Brock Allen",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. Modern application design has changed quite a bit in recent years. “Mobile-first” and “cloud-ready” are the types of applications you are expected to develop. Also, to keep pace with these demands, Microsoft has revamped their complete web stack with ASP.NET Core to meet these architectural demands. Needless to say, you also have to secure these apps. Multi-platform, multi-client, and highly-mobile users bring a new set of challenges, so the approaches of the past are no longer appropriate for modern applications. This workshop is your chance to dive into all things security related to these modern technologies. Learn how to securely connect native and browser-based applications to your back-ends and integrate them with enterprise identity management systems as well as social identity providers and services. This workshop covers everything you need to know to build modern and secure web, native & mobile applications. The foundation will be Microsoft's latest technology stack, but will also include IdentityServer4, which is the officially recommended framework for building token services."
+        },
+        {
+          "id": 9,
+          "name": "STEP UP YOUR MICROSERVICES GAME WITH ASPNETCORE, DOCKER AND AZURE DAY 1",
+          "startsAt": "2019-06-09T13:00:00.000Z",
+          "endsAt": "2019-06-09T20:00:00.000Z",
+          "presenters": "Michele Bustamante",
+          "description": "Workshop will have some hands-on aspects. Bring your own fully charged laptop. You're ready to embrace microservices. Now what? Developing applications with a microservices architecture requires an approach to development that requires attention to microservices design principles, and a strategy that early on influences developer workflows. Docker containers play a key role in enabling microservices architecture - simplifying how we build and deploy containerized applications and improving local development experiences, onboarding of team members and DevOps workflows. Azure provides you with the right tools to further embrace Early in your adoption of a microservices approach it is critical to pull together a shared understanding for development practices, CICD practices, and workflows that involve everyone from developer through to operations in production. The focus of this workshop is to help you up your game by sharing insights into real developer and operational experiences running Docker-based microservices solutions in Azure. The workshop will start by discussing some common design principles and challenges you'll face making decisions about the microservices domains, followed by a tour of Docker fundamentals. Then, we'll dig into how to build a vertical microservices stack with AspNetCore and Docker; how to handle early instrumentation, configuration, secrets, and other considerations related to load balancing containers; and how to rock the local development experience with a single Docker-Compose or stack command. Once you've rocked the design and development story, we'll focus on CICD into Azure using VSTS, Azure Container Registry, Azure Kubernetes Service (AKS) and Azure Container Instances (ACI). At this point you'll learn how to work with Kubernetes, and learn about container scheduling and orchestration including service constraints, scaling containers and nodes, health checks and self healing containers, tipping containers and recovery strategies, serverless strategies with AKS and ACI, and more. Ultimately, we'll raise the bar and dig into more complicated microservices architectures that involve CQRS and event sourcing strategies with Event Hubs; eventual consistency and CosmosDB for microservices; end to end tracing with App Insights and general strategies for drilling, testing and making sure you, as a developer, are as involved in the success of your software once deployed - as the operations team is. By the end of this workshop, you will have knowledge of the full design, development, DevOps and production concerns that all developers and operations team members in a microservices \"team\" should know for the success of your solutions."
+        },
+        {
+          "id": 10,
+          "name": "APPLYING DDD PATTERNS TO ASP.NET CORE APPLICATIONS DAY 2",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Steve Smith",
+          "description": "Workshop will have some hands-on labs. Bring your own fully charged laptop. Domain-Driven Development helps developers build robust, maintainable software that addresses real business complexity. ASP.NET Core is very well-suited to this style of development. In this full day HANDS-ON workshop, you'll be introduced to the fundamentals of Domain-Driven Design as they apply to ASP.NET Core applications. By the end of the day, you'll have built and tested a small ASP.NET Core application using several DDD patterns and using the Clean Architecture approach. This workshop can be continued into day 2 by registering for \"Applying DDD Patterns to ASP.NET Core Applications.\" Note: This workshop will include hands-on labs. Bring your own fully charged laptop. Look for an email with software prerequisites and \"Lab 0\" instructions the week before the workshop."
+        },
+        {
+          "id": 11,
+          "name": "BLAZOR AND THE FUTURE OF .NET WEB APPS",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Brady Gaster,Glenn Condron,Jeff Fritz",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. The arrival of WebAssembly begins a new era for .NET web developers, allowing client-side applications written in C# to run directly in the browser. Blazor is a newly emerging client-side UI platform from the ASP.NET Core team, offering a productive and powerful way to construct large-scale applications with a modern component-based architecture. It integrates with the wider.NET ecosystem to enable truly full-stack client+server development on a single language and runtime, based on modern standards, and able to run in any browser (including mobiles). This workshop will quickly take you from getting started with Blazor basics, right through to building sophisticated UIs using more advanced framework features. We’ll explore not only the capabilities of Blazor and WebAssembly today, but also the longer-term vision for the future of web apps on .NET. Attendees will need to bring a fully-charged laptop with the following setup: • Windows: Visual Studio 2017, including latest updates • Mac/Linux: VS Code"
+        },
+        {
+          "id": 12,
+          "name": "BUILDING MOBILE APPS WITH JAVASCRIPT",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Todd Anglin",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. Are you looking for a comprehensive mobile development strategy that can help you deliver “the right” mobile app for every project? Look no further. In this workshop, we’ll explore a complete workflow for building mobile apps with JavaScript (and TypeScript) that can be applied to any mobile project. From achieving maximum reach with Progressive Web Apps, to delivering maximum richness with native apps powered by JavaScript (via NativeScript), the techniques in this workshop will give you the tools you need to make sure your mobile app projects don’t fail. Topics we’ll cover: • Intro to Progressive Web Apps (Service Workers, Web App Manifest, etc) • Intro to NativeScript – native apps with JavaScript • Pros and Cons of PWA vs Native • Building your first PWA • Building your first NativeScript app • Sharing code between PWAs and NativeScript • Debugging and deployment • Web and native push notifications If you need to build mobile apps in 2019, and you have a background in web development, this workshop is for you. Whether you’re looking to get up-to-speed on PWAs or discover how web skills can be used to create native mobile apps, you’re guaranteed to learn new techniques that can be immediately applied to your next mobile project. Bring a laptop and be ready for some fast paced, hands-on learning."
+        },
+        {
+          "id": 13,
+          "name": "PERFORMANCE TROUBLESHOOTING USING WAITS AND LATCHES",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Paul Randal",
+          "description": "One of the first things you should check when investigating performance issues are wait and latch statistics, as these can usually point you in the right direction for further analysis. SQL Server knows why executing threads have to stop and wait, so make use of that information to short-circuit your performance tuning! Unfortunately, many people misinterpret what SQL Server is telling them and jump to conclusions about how to solve the problem - what is often called 'knee-jerk performance tuning'. There's a plethora of old, misguiding, or just plain wrong information out there on the Internet about what various waits mean and what you should do about them. I'm so passionate about educating people about wait statistics that I built a resource library of more than 1,000 wait types and latch classes that tens of thousands of people around the world use every month to help with performance tuning. In this full-day workshop, I'll teach how to investigate and interpret wait and latch statistics and how thread scheduling works inside SQL Server so you understand what’s really going on, not just what ‘the answer’ is. You'll walk away knowing how to recognize and troubleshoot very common performance bottlenecks that you can identify using wait statistics and what traditionally ‘tricky’ wait types like CXPACKET and SOS_SCHEDULER_YIELD actually mean and what you should do about them. The practical techniques you’ll learn (along with the scripts you'll get) are simple and affective and you can take them home and start using them immediately. You'll also learn what a myriad of wait and latch types actually mean and how you can investigate lightly-documented types to gain insight into what causes them. Don't waste time when it comes to performance troubleshooting; wait statistics are the easiest route to understanding your performance problems and I want to help you get there faster!"
+        },
+        {
+          "id": 14,
+          "name": "PERFORMANCE TUNING AND OPTIMIZATION FOR MODERN WORKLOADS (SQL SERVER 2017+, AZURE SQL DATABASE, AND MANAGED INSTANCE)",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "David Pless,Tim Radney",
+          "description": "In this workshop we will examine the architecture of modern workloads and a proven performance tuning methodology to support these workloads. We will compare and contrast dynamic management views and functions between on-prem, IaaS and PaaS deployments, the waits and queues tuning methodologies, built-in & 3rd party tools to support these environments including Azure Data Studio and the new features in SSMS 18.x, real world monitoring strategies, and proven best practices to help you get the most out of your SQL deployment. We will cover new performance technologies such as leveraging Query Store against SQL Server solutions and the similar Query Performance Insight leveraged in Azure SQL Database. We will focus on auto-tuning, analyzing diagnostics, performance auditing, and extended events analysis across all SQL platforms. We will also show you how to use Adaptive Query Processing that was introduced in database compatibility level 140 and improved in 150. The AQP technology improves some of the most impacting scenarios found in the SQL Server engine such as MSTVFs, memory grants, temporary tables, and other critical scenarios. Finally we will cover the benefits and capabilities of Azure SQL Database, Elastic Pools, and Azure SQL Managed Instance with security, high availability, management and the tools that help secure, classify, and monitor your data. In this workshop you will gain a deep understanding of which IaaS or PaaS solution is best for different workloads and applications. Come spend a day with Tim Radney from SQLskills.com & David Pless from Microsoft - Deepen your knowledge of SQL Server in Azure. Tim is a Data Platform MVP and has a whole collection of Microsoft and other industry certifications. His experience includes HA/DR, virtualization, SSIS, SSRS, and performance tuning, among everything else SQL Server-related. Tim is very active and passionate in the SQL Community. He runs the Columbus GA SQL Users Group, has been a PASS Regional Mentor for a number of years, was named a PASS Outstanding Volunteer in 2012, and is a frequent speaker at user groups, SQL Saturdays and PASS Summits. Tim is one of the top ranked in karma on ask.sqlservercentral.com, answers questions as @tradney on Twitter, and blogs at http://timradney.com and SQLskills blog at http://www.SQLskills.com/blogs/tim. David Pless is a Azure Technical Trainer at Microsoft and has been an engineer for the past twelve years specializing in SQL Server performance tuning and optimization, Azure Technologies, Power BI and SQL Server Reporting Services, Azure SQL DB and Azure SQL Managed Instance, and High Availability solutions. At Microsoft David has worked as a Technology Specialist as well as a Premier Field Engineer in Customer Support Services. At Microsoft, PFEs teach workshops, conduct performance reviews, complete health checks, and work to resolve reactive cases anywhere in the world. Before Microsoft, David Pless was a MCS partner consultant and a Database Administrator at CheckFree Corporation in Norcross, Georgia. David is also a Microsoft Certified Master (MCM) and has spoken a SQLSaturdays, SQLPASS, SQLintersection, Tech Ready, and regularly speaks at the local user groups in the Southeast."
+        },
+        {
+          "id": 15,
+          "name": "REACT FUNDAMENTALS",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Elijah Manor",
+          "description": "Workshop will have some hands-on aspects. Bring your own fully charged laptop. Facebook's React library is one of the major choices when creating a Single Page Application (SPA). In this workshop, we will combine lecture along with hands-on labs to reinforce the concepts that we cover. Initially, we will start by describing what React is and why it's a compelling choice to use. After taking a high-level overview of React components, we will start building an application over the duration of the workshop. Unlike some of its competitors, React is primarily focused on the view of a web app. For a comprehensive SPA, you'll need much more than just React alone. We will introduce other libraries and technologies that complement React and that are readily used by the React community. As we build our React application we will continue to add new features and refactor our approach as our app gets more complex. In addition, we will address how to detect performance bottlenecks, talk about unit testing tools, build a basic pattern library, and discuss various approaches when styling components."
+        },
+        {
+          "id": 16,
+          "name": "RIGHTING SOFTWARE - A METHOD FOR SYSTEM AND PROJECT DESIGN",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Juval Lowey",
+          "description": "The software industry is in a deep crisis. Many projects suffer from low quality, schedule slips and cost overrun. Systems are unmaintainable, complex and cannot handle change. It is possible to develop great software systems, and Juval Lowy has helped hundreds of companies around the world meet their commitments. The key is developing software systems along engineering principles. This workshop presents Juval's approach for software design: designing the system and the project to build it. You will learn how to mechanize design, how to do it quickly and effectively. With system design Juval will demonstrate how to decompose a system into smaller building blocks, or services. This is where the vast majority of architects fail-- doing the exact opposite of the right thing. With project design Juval will show a continuous design effort flowing from the architecture including calculating the planned duration, cost, and risk and devising several good execution options. Both parts complement each other: you cannot design the project without the architecture, and it is pointless to design a system that you cannot build, or that your team will fail to execute on. This workshop is likely to change the rest of your career."
+        },
+        {
+          "id": 17,
+          "name": "SECURING MODERN APPLICATIONS AND APIS WITH ASP.NET CORE 2: DAY 2",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Brock Allen",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. You're ready to embrace microservices. Now what? Developing applications with a microservices architecture requires an approach to development that requires attention to microservices design principles, and a strategy that early on influences developer workflows. Docker containers play a key role in enabling microservices architecture - simplifying how we build and deploy containerized applications and improving local development experiences, onboarding of team members and DevOps workflows. Azure provides you with the right tools to further embrace Early in your adoption of a microservices approach it is critical to pull together a shared understanding for development practices, CICD practices, and workflows that involve everyone from developer through to operations in production. The focus of this workshop is to help you up your game by sharing insights into real developer and operational experiences running Docker-based microservices solutions in Azure. The workshop will start by discussing some common design principles and challenges you'll face making decisions about the microservices domains, followed by a tour of Docker fundamentals. Then, we'll dig into how to build a vertical microservices stack with AspNetCore and Docker; how to handle early instrumentation, configuration, secrets, and other considerations related to load balancing containers; and how to rock the local development experience with a single Docker-Compose or stack command. Once you've rocked the design and development story, we'll focus on CICD with Azure DevOps, Azure Container Registry (ACR), Azure Kubernetes Service (AKS) and Azure Container Instances (ACI). At this point you'll learn how to work with Kubernetes, and learn about container scheduling and orchestration including service constraints, scaling containers and nodes, health checks and self healing containers, tipping containers and recovery strategies, serverless strategies with AKS and ACI, and more. Ultimately, we'll raise the bar and dig into more complicated microservices architectures that involve CQRS, message based and event sourcing strategies with Event Hubs and Service Bus; eventual consistency with CosmosDB or Azure SQL DB; end to end tracing with Application Insights; and general strategies for drilling, testing and making sure you, as a developer, are as involved in the success of your software once deployed - as the operations team is. By the end of this workshop, you will have knowledge of the full cycle of design, development, DevOps and production concerns that all developers and operations team members in a microservices \"team\" should know for the success of your solutions."
+        },
+        {
+          "id": 18,
+          "name": "SQL SERVER INDEXES: WHAT, WHY, AND HOW!",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Kimberly Tripp",
+          "description": "There are many index types and strategies in SQL Server and you’ve probably wondered: why isn't SQL Server using the indexes I've created? What index options exist? What strategies are best? Should I use indexes to \"cover a query\"? What's the best way to find the right balance between too many and too few indexes? Help! In this full-day and fast-paced workshop, Kimberly will give you insight into index structures, how covering works and when it's an appropriate option to consider. We'll compare and contrast row-based index options (clustered, nonclustered, and indexed views) as well as the scenarios where columnstore should be considered/used. In terms of versions, this session applies to all versions from 2008 and higher (except columnstore which has different capabilities in 2012, 2014, and 2016+). However, we'll focus primarily on SQL Server 2014+ in terms or performance improvements and demos. Above all, we'll strategize your best performance and indexing best practices on your workload characteristics. Our primary focus will be around OLTP and hybrid databases (modifications combined with some queries/reporting) but NOT data warehousing (which is most appropriate for columnstore and indexed views). However, you'll still have a good idea on how to best index in those environments too. Our primary feature focus will be: row-based indexes (clustered and nonclustered); INCLUDE (added in SQL Server 2005); filtered indexes (added in SQL Server 2008) and best overall strategies for performance by finding the right balance between too few and too many indexes. After this intense, full-day workshop, you'll understand the different indexing strategies to improve performance; the pros and cons of covering; and why \"indexing for performance\" is both a science and an art! This workshop is great for anyone that works with SQL Server (developers, administrators, and architects) and wants to ensure better long-term scalability, manageability, and above all, performance!"
+        },
+        {
+          "id": 19,
+          "name": "STEP UP YOUR MICROSERVICES GAME WITH ASPNETCORE, DOCKER AND AZURE DAY 2",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Michele Bustamante",
+          "description": "Workshop will have some hands-on aspects. Bring your own fully charged laptop. You're ready to embrace microservices. Now what? Developing applications with a microservices architecture requires an approach to development that requires attention to microservices design principles, and a strategy that early on influences developer workflows. Docker containers play a key role in enabling microservices architecture - simplifying how we build and deploy containerized applications and improving local development experiences, onboarding of team members and DevOps workflows. Azure provides you with the right tools to further embrace Early in your adoption of a microservices approach it is critical to pull together a shared understanding for development practices, CICD practices, and workflows that involve everyone from developer through to operations in production. The focus of this workshop is to help you up your game by sharing insights into real developer and operational experiences running Docker-based microservices solutions in Azure. The workshop will start by discussing some common design principles and challenges you'll face making decisions about the microservices domains, followed by a tour of Docker fundamentals. Then, we'll dig into how to build a vertical microservices stack with AspNetCore and Docker; how to handle early instrumentation, configuration, secrets, and other considerations related to load balancing containers; and how to rock the local development experience with a single Docker-Compose or stack command. Once you've rocked the design and development story, we'll focus on CICD into Azure using VSTS, Azure Container Registry, Azure Kubernetes Service (AKS) and Azure Container Instances (ACI). At this point you'll learn how to work with Kubernetes, and learn about container scheduling and orchestration including service constraints, scaling containers and nodes, health checks and self healing containers, tipping containers and recovery strategies, serverless strategies with AKS and ACI, and more. Ultimately, we'll raise the bar and dig into more complicated microservices architectures that involve CQRS and event sourcing strategies with Event Hubs; eventual consistency and CosmosDB for microservices; end to end tracing with App Insights and general strategies for drilling, testing and making sure you, as a developer, are as involved in the success of your software once deployed - as the operations team is. By the end of this workshop, you will have knowledge of the full design, development, DevOps and production concerns that all developers and operations team members in a microservices \"team\" should know for the success of your solutions."
+        },
+        {
+          "id": 20,
+          "name": "VUE.JS FUNDAMENTALS",
+          "startsAt": "2019-06-10T13:00:00.000Z",
+          "endsAt": "2019-06-10T20:00:00.000Z",
+          "presenters": "Dan Wahlin,John Papa",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. Do you want to learn the fundamentals of Vue so you can start creating apps right away? Join us and you'll learn Vue from the ground up including how to display data, capture user interactions, create components, communicate across components, debug your app, add in plugins, and so much more. * Setup Your Environment with Essential Tooling * Templating with directives, data rendering, methods, and computed properties * Component Structure and Communication * Create and Control Your App with the Vue CLI * Navigating Your app with Routing * Interact with APIs using Axios * Manage State with Vuex This one day workshop is for developers who have not started or have just started, learning Vue. Bring your laptop, as you’ll be writing Vue code using what you learn in several hands-on exercises. Please bring your laptop installed with Node.js with the latest LTS version and the Vue CLI."
+        },
+        {
+          "id": 21,
+          "name": "Continental Breakfast",
+          "startsAt": "2019-06-11T11:30:00.000Z",
+          "endsAt": "2019-06-11T12:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 22,
+          "name": ".NET Everywhere - is it possible and is it awesome?",
+          "startsAt": "2019-06-11T12:30:00.000Z",
+          "endsAt": "2019-06-11T13:30:00.000Z",
+          "presenters": "Scott Hanselman",
+          "description": "Keynote by Scott Hanselman"
+        },
+        {
+          "id": 23,
+          "name": "Coffee Break",
+          "startsAt": "2019-06-11T13:30:00.000Z",
+          "endsAt": "2019-06-11T14:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 24,
+          "name": "Coffee Break",
+          "startsAt": "2019-06-11T13:30:00.000Z",
+          "endsAt": "2019-06-11T13:45:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 25,
+          "name": "BUILDING AN AZURE DATA SCIENCE ENVIRONMENT",
+          "startsAt": "2019-06-11T13:45:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Gareth Swanepoel",
+          "description": "In this double session, we are going to take a look at building an Azure Data Science Environment to determine which day of the week you should attend a game played by your favorite baseball team in order to see them win. We will be including the following steps to achieve this goal: • Using Azure Storage Explorer and downloading objects from Azure Blob Storage • Uploading data to Data Lake Store using Azure CLI & Azure Data Factory • Using PowerShell to create a federated connection from Data Lake Store to SQL DB or SQL DW • Using Polybase or Databricks to retrieve data from Data Lake Store to SQL DW • Create a Power BI Report on Log Analytics Audit Data • Use Power BI to consume data from Data Lake Store / SQL DW / SQL DB"
+        },
+        {
+          "id": 26,
+          "name": "HARDWARE 201: EVALUATING AND CHOOSING DATABASE HARDWARE FOR SQL SERVER 2019",
+          "startsAt": "2019-06-11T13:45:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Glenn Berry",
+          "description": "Microsoft made some sweeping changes to their software licensing model for SQL Server 2012, moving from socket-based licensing to core-based licensing. This new licensing model alters much of the conventional criteria for hardware selection for database servers that will be running SQL Server 2012 and newer. This change still causes a significant amount of angst, with fears of huge increases in SQL Server licensing costs compared to older versions of the product. This session will cut through the uncertainty and hype to show you how to properly evaluate and choose your database hardware for usage with SQL Server 2016 and newer. You will learn how to choose hardware for different types of workloads and how to get the best performance and scalability for the lowest licensing cost, whether you are running in a physical or virtualized environment."
+        },
+        {
+          "id": 27,
+          "name": "MYTHBUSTERS",
+          "startsAt": "2019-06-11T13:45:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Paul Randal",
+          "description": "It's amazing how many myths and misconceptions have sprung up and persisted over the years about SQL Server - after 20 years helping people out on forums, newsgroups, and customer engagements, Paul's heard it all. Let’s start out the conference debunking a bunch of myths and start off your learning right! Are temporary tables always a good idea? Does using SSDs mean no fragmentation issues? Should you really plan a backup strategy? Should you add more memory to your server? These are just a few of many, many myths that Paul will debunk in this fast-paced session on how SQL Server operates and should be managed and maintained."
+        },
+        {
+          "id": 28,
+          "name": "THE CLOUDY FUTURE OF THE DBA",
+          "startsAt": "2019-06-11T13:45:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Tim Chapman",
+          "description": "There are clouds on the DBA-horizon, and that is a good thing. Cloud technologies exist to make our lives and the lives of our customers easier and more productive. As a DBA, we must embrace the times and maintain our skillsets. In this session, we will review and detail the different cloud technologies (focusing on Azure) that pertain to DBAs and how to go about learning and maintaining your skills to keep up."
+        },
+        {
+          "id": 29,
+          "name": "ACTORS - THE PAST AND FUTURE OF SOFTWARE ENGINEERING",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Juval Lowey",
+          "description": "The Actor Model is the latest fad to storm the software industry. But is there any substance behind it and why should you care? What are the drivers of the Actor Model and why have the large cloud vendors started offering Actor-based solutions? Juval Lowy puts it all together first by outlining the long-term trend in software methodologies that brought this 50-years old computational model to the fore, and how the demise of Moore's Law coupled with the rise of the IoT will force us to abandon sequential programming. Juval will examine the origin of the Actor Model; demonstrate Actors using conceptual examples, outline emerging design patterns, point out common misconceptions and conclude with his views on the future of the Actor Model."
+        },
+        {
+          "id": 30,
+          "name": "ADDING REALTIME FEATURES TO YOUR APPLICATIONS WITH SIGNALR",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Javier Lozano",
+          "description": "Ever wondered how hard is to add real time eventing to your ASP.NET application? SignalR is a new library that makes bi-directional communication easy and fun. In this session we'll cover the features and approaches SignalR offers on both client and server sides. If you're interesting in adding real time eventing to your applications today, you don't want to miss this talk."
+        },
+        {
+          "id": 31,
+          "name": "ANGULAR IN THE ENTERPRISE",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Stephen Fluin",
+          "description": "Hundreds of the top companies in the world use Angular and we work with them regularly. Learn about the challenges, success, and the top things many enterprises have figured out about Angular."
+        },
+        {
+          "id": 32,
+          "name": "APPLYING CLEAN ARCHITECTURE TO ASP.NET CORE APPS",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Steve Smith",
+          "description": "ASP.NET Core provides better support for clean, testable, maintainable architectures than any of its predecessors. Learn the underlying principles that apply to project/solution organization, how best to arrange your projects to support clean code, and how to refactor existing solutions toward this architecture. Examples will use ASP.NET Core but the principles covered apply to all languages and platforms."
+        },
+        {
+          "id": 33,
+          "name": "C# 8.0",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Kathleen Dollard",
+          "description": "The big news of C# 8.0 is null reference types. You’ll see how to incorporate them to remove null reference exceptions from your application. And there’s a lot more to C# 8 including new pattern matching features, using declarations, async streams, static local functions, ranges and indices, and default interface implementations. In addition, .NET Core brings the JsonDocument type and improvements to the .NET Core tool ecosystem (there are now over 600 .NET Core tools). The theme of C# continues to be more robust and easy to read code. Come learn about upcoming C# features!"
+        },
+        {
+          "id": 34,
+          "name": "CREATING INTELLIGENT APPLICATIONS: THE HITCHHIKER’S GUIDE TO MICROSOFT’S AI GALAXY",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Ciprian Jichici",
+          "description": "The landscape of AI and ML technologies provided today by Microsoft is getting bigger and bigger and more complex every day. Azure Machine Learning, Azure Databricks, ML.NET, Cognitive Services, SQL Server, Power BI – to name just a few – are all options when it comes to developing and/or integrating intelligence into modern applications. With many capabilities overlapping in features it becomes increasingly difficult to decide on which technology or set of technologies is best suited for a solution, product, or scenario. Understanding in depth Microsoft’s galaxy of AI and ML offerings is not easy, to say the least. Join me in this session where we’ll take a structured approach on analyzing the entire range of choices available in Microsoft’s technology landscape. As usual, we’ll use real-world examples and experience from real projects to highlight the pros and cons of each choice."
+        },
+        {
+          "id": 35,
+          "name": "DEPEND ON DOCKER FOR DEEP LEARNING ON AZURE",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Alex Iankoulski,Dr. Mahadevan Balasubramaniam",
+          "description": "Depend on Docker is a series of talks that started at DockerCon 2018. These talks converge to the point that the only first order dependency you need for all your software projects is Docker. This talk focuses on solving analytics, machine learning, deep learning, and industrial AI challenges using Docker Containers and NVIDIA GPUs on Azure. We will share some lessons and best practices learned from both software architecture and data science perspective, as well as show a demonstration of an interesting deep learning model."
+        },
+        {
+          "id": 36,
+          "name": "GOING FROM DEVELOPER TO AI ROCKSTAR",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Zoiner Tejada",
+          "description": "What does it mean to “do” AI? Have you ever wondered how companies go about building solutions with AI and what it’s like to be a developer on such a team? Come to this session to learn about the AI spectrum and range of ways you, the developer, should participate in the process. Learn how you can build solutions that integrate pre-built AI capabilities from Microsoft Cognitive Services, custom tailor ready made AI’s from Microsoft and the open source community to fit your scenario and even get the gist of what it takes to build and deploy your own machine learning powered AI in Azure when building your model from scratch. You will be surprised to learn how important you are to the future of AI."
+        },
+        {
+          "id": 37,
+          "name": "INTRODUCING .NET CORE 3",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Jeff Fritz,Scott Hunter",
+          "description": "We’ve heard about the big picture changes in the next .NET Core. In this session, we’ll dive into the new features coming with .NET Core 3.0 including support for desktop apps with Windows Forms and WPF, updates to the .NET Core SDK, and the addition of Razor Components to ASP.NET Core. You'll see many practical examples and we'll discuss the road ahead for your favorite development frameworks."
+        },
+        {
+          "id": 38,
+          "name": "USING DATABRICKS FOR AI AND MACHINE LEARNING",
+          "startsAt": "2019-06-11T14:00:00.000Z",
+          "endsAt": "2019-06-11T15:00:00.000Z",
+          "presenters": "Lino Tadros",
+          "description": "In this session, you will be introduced to Databricks technology and use it to prepare data, create a model, train a model and deploy a model in order to predict outcomes using a deployed web service."
+        },
+        {
+          "id": 39,
+          "name": "Break",
+          "startsAt": "2019-06-11T15:00:00.000Z",
+          "endsAt": "2019-06-11T15:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 40,
+          "name": "Break",
+          "startsAt": "2019-06-11T15:00:00.000Z",
+          "endsAt": "2019-06-11T15:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 41,
+          "name": "AN INTRODUCTION TO AZURE MANAGED INSTANCES",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:30:00.000Z",
+          "presenters": "Tim Radney",
+          "description": "Have you been hearing about Azure Managed Instances and want to know what all the fuss is about? Come see how Managed Instances is changing how we think about cloud databases. Managed Instances can be considered a hybrid of Azure SQL Database and on-premises SQL Server with all the great benefits of Platform as a Service. You'll see first-hand how easy it is to migrate databases from on-premises to a Managed Instance. We'll explore the differences between Azure SQL Database, Managed Instances, and SQL Server on an Azure VM to help you determine which is the best fit for your organization's requirements. If you've been considering Azure for your organization, this session is for you!"
+        },
+        {
+          "id": 42,
+          "name": "ANGULAR ARCHITECTURE",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-11T15:45:00.000Z",
+          "presenters": "Dan Wahlin",
+          "description": "Building an Angular application but want to dive deeper into various architecture concepts? In this session Google GDE Dan Wahlin will discuss app planning techniques, best practices, and concepts you should master to build a solid application. You'll learn about structuring components, communication techniques, state management options, and more."
+        },
+        {
+          "id": 43,
+          "name": "BUILDING AN AZURE DATA SCIENCE ENVIRONMENT",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:30:00.000Z",
+          "presenters": "Gareth Swanepoel",
+          "description": "In this double session, we are going to take a look at building an Azure Data Science Environment to determine which day of the week you should attend a game played by your favorite baseball team in order to see them win. We will be including the following steps to achieve this goal: • Using Azure Storage Explorer and downloading objects from Azure Blob Storage • Uploading data to Data Lake Store using Azure CLI & Azure Data Factory • Using PowerShell to create a federated connection from Data Lake Store to SQL DB or SQL DW • Using Polybase or Databricks to retrieve data from Data Lake Store to SQL DW • Create a Power BI Report on Log Analytics Audit Data • Use Power BI to consume data from Data Lake Store / SQL DW / SQL DB"
+        },
+        {
+          "id": 44,
+          "name": "BUILDING RESILIENT REAL-TIME AND BATCH DATA PIPELINES FOR AI",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Kyle Bunting",
+          "description": "Big data analytics is the process of combining large and diverse data sets with AI to create actionable insights. Data pipelines are the technique used to funnel data from multiple sources, both batch and streaming, into a centralized location to facilitate the summarization and analysis of those data. In this session, we will examine using Azure Databricks, Azure Data Factory, and various serverless technologies in Azure to create flexible and powerful data pipelines for AI."
+        },
+        {
+          "id": 45,
+          "name": "HIGH AVAILABILITY/DISASTER RECOVERY 101",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:30:00.000Z",
+          "presenters": "Glenn Berry",
+          "description": "How do you design a SQL Server 2019 infrastructure in order to meet specific Recovery Time Objective (RTO) and Recovery Point Objective (RPO) service levels? There are many aspects to consider, from technology choices and licensing, to policies and procedures. This session outlines and compares the various HA/DR technologies available in SQL Server 2019, showing how you can combine them to design and build a solution to help meet your HA/DR goals. This session also teaches you how to formulate policies that enable effective use of technology in your organization."
+        },
+        {
+          "id": 46,
+          "name": "HOW TO BUILD ENTERPRISE-GRADE SERVERLESS APPS",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Jeff Hollan",
+          "description": "Is serverless just for simple non-mission critical applications? Not with Azure Functions. Come learn about enterprise capabilities of Azure Functions like virtual networks, security, predictable performance, DevOps and more."
+        },
+        {
+          "id": 47,
+          "name": "INTRODUCTION TO PERFORMANCE TROUBLESHOOTING USING WAIT STATISTICS",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:30:00.000Z",
+          "presenters": "Paul Randal",
+          "description": "One of the first things you should check when investigating performance issues are wait statistics - as these can often point you in the direction for further analysis. Unfortunately, many people misinterpret what SQL Server is telling them and jump to conclusions about how to solve the problem - what is often called 'knee-jerk performance tuning'. In this session, you will learn what waits are, how to analyze them, and potential solutions to common problem patterns."
+        },
+        {
+          "id": 48,
+          "name": "MESSAGE-BASED MICROSERVICES POWERED BY DOCKER, EVENTHUBS AND COSMOS DB",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Michele Bustamante",
+          "description": "To build a microservices solution you go through a process of factoring your business capabilities into well defined domains, sub domains and microservices. While this results in more moving parts, dependent on container platforms and DevOps procedures to manage it well, it also enables co-evolution of services and features with reduced friction. One of the biggest challenges is rethinking the back-end whereby each microservice owns its own data model - completely decoupled from the rest of the system. Embracing eventual consistency, and incorporating a message-based architecture can help with this, and services that \"fit in your head\" make for a manageable approach to introducing message-based strategies. This session will show you how to build a docker-based solution that incorporates async messaging, CQRS patterns, fit for purpose data back-ends and eventual consistency as part of a microservices solution. In addition, the session will address specific challenges such as dealing with message order, versioning, poison messages and data protection."
+        },
+        {
+          "id": 49,
+          "name": "PRESENT AND FUTURE OF .NET",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Scott Hunter",
+          "description": "Developing with .NET is easier than ever, and now you can run your applications on any platform thanks to .NET Core. Your existing knowledge of languages and frameworks can be re-used in all of the new places that .NET can reach. In this demo-filled session, you'll learn how to get started with .NET Core and the .NET SDK to build a simple set of tools that can be run everywhere from the cloud, to a Raspberry Pi. We'll also look at how your existing code can be re-used in all of these new places as well."
+        },
+        {
+          "id": 50,
+          "name": "SECURING WEB APPLICATIONS AND APIS WITH ASP.NET CORE 2.2 AND 3.0",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Brock Allen",
+          "description": "ASP.NET Core and MVC is a mature and modern platform to build secure web applications and APIs for a while now. Starting with version 2.2, Microsoft makes big investments in the areas of standards-based authentication, single sign-on and API security by including the popular open source project IdentityServer4 in the project templates. This talk gives an overview over the various security features in ASP.NET Core but focuses in particular on the API security scenarios enabled by IdentityServer."
+        },
+        {
+          "id": 51,
+          "name": "THE MISSING PIECE",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Juval Lowey",
+          "description": "Over the past decades, the software development industry has carved out a massive core body of knowledge of software architecture and design patterns. And yet, fundamentally, our industry is not better off because of it, as it falls behind trying to cope quickly with ever changing requirements and increased complexity, coupled with dwindling budgets and outsourcing constraints. A dissonance exists between the ivory tower theoretical world of best practices and the grim reality in the trenches. In this visionary session, Juval Lowy will articulate the root causes of the problem, propose contemporary solution comprising of tools, process and a new profession, literally a missing piece in the puzzle he calls the business architect. Finally, Juval will predicate the impact and infliction adopting his approach will have on the livelihood and prosperity of every software architect and developer."
+        },
+        {
+          "id": 52,
+          "name": "ZEN AND THE ART OF VUE.JS Jen Looper",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Jen Looper",
+          "description": "Did you ever notice that the Vue community is populated by musicians, artists, and teachers? Why is this? Is there something about this framework that appeals to admirers and practitioners of the visual and plastic arts? In this talk I’ll explore ways in which the familiar patterns of Vue development translate to some aspects of traditional Chinese brush painting, going on a romp through one of the oldest continuous artistic traditions in the world and seeing how some of its tenets can inspire us, as developers, and inform the way we write our code. We’ll then take a look at how to build a web and mobile app that exist in perfect harmony, creating a piece of artwork collaboratively."
+        },
+        {
+          "id": 53,
+          "name": "ZERO TO DATABASE WITH EF CORE CODE FIRST IN 60 MINUTES",
+          "startsAt": "2019-06-11T15:15:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "Justin James",
+          "description": "Finally, you can create a database with just C# that even your DBA would be proud. Never again will you have to wait for the DBA to create the database for you. Plus you will get to version your database schema along with the rest of your code! With EF Core, everything you need comes right out of the box to quickly define your tables, column attributes, relationships, indexes, plus much more. We will start at the beginning with generating a new project and by the end we will a fully finished database. At the end of this talk you will be able to create your database using EF Core Code First."
+        },
+        {
+          "id": 54,
+          "name": "7 TIPS FOR EVERY ANGULAR DEVELOPER",
+          "startsAt": "2019-06-11T15:45:00.000Z",
+          "endsAt": "2019-06-12T04:15:00.000Z",
+          "presenters": "John Papa",
+          "description": "Level: 200 Are you building applications in Angular now or about to dive in? Do you know how to debug your app? Structure your app? Use cloud services from your web app? Optimize how fast your app appears to the user? Fine tune control over routes? We'll discuss these and several other practical tips on how to solve common challenges with modern Web development using Angular. Learning these topics now can help you with applications you are building today or down the road!"
+        },
+        {
+          "id": 55,
+          "name": "Lunch",
+          "startsAt": "2019-06-12T04:15:00.000Z",
+          "endsAt": "2019-06-11T17:45:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 56,
+          "name": "Lunch",
+          "startsAt": "2019-06-12T04:30:00.000Z",
+          "endsAt": "2019-06-11T17:45:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 57,
+          "name": ".NET CORE TEMPLATES, TOOLS, AND TIPS",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Jeff Fritz",
+          "description": "The .NET toolchain has been turned on its head with .NET Core, the .NET SDK, Azure DevOps, and GitHub. How can we best optimize our projects to take advantages of these frameworks, tools and processes? In this demo-filled session, Jeff will show you how he took a project and wrapped all the new .NET love around it to make development a great experience for everyone involved."
+        },
+        {
+          "id": 58,
+          "name": "AI & MACHINE LEARNING WITH AZURE",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Lino Tadros",
+          "description": "In this session attendees will be presented with the current technology availability of AI & Machine Learning in the Azure Cloud and how to use the Azure features to build and train the best models. Databricks will be used to manipulate the data used and deploying the models and the web services for the predictions."
+        },
+        {
+          "id": 59,
+          "name": "ASP.NET CORE WEB API BEST PRACTICES",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Steve Smith",
+          "description": "Today, Web APIs are more important than ever. Building effective, consistent APIs is critical not only to web applications, but most mobile and desktop apps as well. This session covers best practices on designing, versioning, testing, and securing your ASP.NET Core Web APIs."
+        },
+        {
+          "id": 60,
+          "name": "AVAILABILITY GROUPS: WHEN ARE THEY THE RIGHT SOLUTION!",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T19:00:00.000Z",
+          "presenters": "Jonathan Kehayias",
+          "description": "Availability Groups are one of the hot topics for SQL Server thanks to a very successful marketing approach by Microsoft, starting with their introduction in SQL Server 2012. As both a replacement and to enhance the capabilities of database mirroring, Availability Groups have added new functionality with each release of SQL Server, with the most commonly touted feature being readable secondaries. In this session we will take a look at why Availability Groups are not always the best solution, the limitations of Availability Groups, and alternatives that might be a better fit for your business requirements. Don't worry, the goal isn't to talk you out of Availability Groups entirely, just better educate you on when and how to properly implement them."
+        },
+        {
+          "id": 61,
+          "name": "BUILDING KILLER APPS WITH SERVERLESS AI",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Joel Hulen",
+          "description": "Serverless is all the rage these days, particularly because of how it abstracts away infrastructure and lets you focus on building your applications instead. Microservices have been used for years as a way to break up monolithic applications to smaller components that can have separate deployment and scaling requirements, providing greater flexibility for how applications are built and maintained. Artificial intelligence provides exciting opportunities to interact with your users and data in ways that were difficult or impossible before the advent of machine learning. In this session, we discuss how all three of these concepts work together to rapidly create and host intelligent solutions at scale. We first cover the basics of building serverless microservices in Azure, then the array of AI options we can use to layer machine learning as a component of the solution. To help you follow along, we will be showing a working serverless microservices solution that will be modified to add in some AI components. By the end of the session, you will see how combining AI with serverless opens up many opportunities to make your applications even more awesome, in a way that will scale with (hopefully increased) demand."
+        },
+        {
+          "id": 62,
+          "name": "CRASH COURSE IN DATA SCIENCE FOR THE DEVELOPER",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Zoiner Tejada",
+          "description": "No question about it, AI is cool. But if you, like many developers, have never done data science it can be overwhelming to understand where to get started, what tools to master and what skills to hone. In this session we put together a toolbox for pragmatic data science that you can use as a spring board to where ever your interest in data science may lead you, be it machine learning, deep learning or even AI more generally. We will take an opinionated path using Python as our development language, introduce the IDE you should start with, the core libraries (like numpy, pandas and Scikit-Learn) that you need to master over time and take you end to end building your first model. Think of it like a breadth first search looking for an understanding of how data science (and AI!) gets done. Once you've seen what the whole journey looks like, you will leave more confident in your choices of what projects to start with, that you are selecting the right tools and that you are on the shortest path to mastery."
+        },
+        {
+          "id": 63,
+          "name": "DEMYSTIFYING DEPENDENCY INJECTION: ANGULAR VS NEST",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:15:00.000Z",
+          "presenters": "Kamil Mysliwiec",
+          "description": "Dependency Injection framework is a core and inherent feature of both Nest and Angular. DI simplifies creating scalable, testable, and maintainable applications by giving us flexible and efficient abstractions. However, did we ever think how this mechanism works underneath? In this talk, we’ll compare how Nest and Angular DI systems differ from each other as well as dive into the basics of the metadata reflection API in TypeScript."
+        },
+        {
+          "id": 64,
+          "name": "DEVOPS FOR AI IN THE MICROSOFT WORLD",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Ciprian Jichici",
+          "description": "DevOps has become ubiquitous in the world of classical development. Almost all projects that exceed a certain level of complexity become inevitably DevOps projects. Yet there is one category of projects that are stepping out of the line. You’ve guessed it right, it’s the category of Data Science projects. When it comes to DevOps, Data Science projects pose a range of special challenges, whether it’s about the technical side of things, the philosophy of the people involved, or the actors involved. Think about one simple example: versioning. While in a “classical” development project versioning refers almost exclusively to source code, in the world of data science it gets another important aspect: data versioning. It’s not enough to know the version of the code for your model, it’s equally important to know the “version” of the data it was trained on. Another interesting question is, for examples, what does a “build” mean in the world of data science? Or a “release”? Join me in this session for an applied discussion about DevOps principles and approaches for AI and Machine learning projects. In addition to the principles, we’re also going to analyze an end-to-end example of a DevOps pipeline used in a real-world project."
+        },
+        {
+          "id": 65,
+          "name": "DOCKER AND KUBERNETES FOR DEVELOPERS",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Dan Wahlin",
+          "description": "Docker provides an excellent way to \"containerize\" applications. Kubernetes is popular open-source system for automating deployment, scaling, and management of containerized applications. Put them together and you can do some pretty phenomenal things. In this session, Dan Wahlin will discuss the role that Docker and Kubernetes plays in the developer workflow, describe key concepts such as pods, nodes, and deployments, and show how you can get started using both today. If you've heard about Docker and Kubernetes but haven't made time to learn more about them then this is the session for you!"
+        },
+        {
+          "id": 66,
+          "name": "GETTING STARTED WITH AZURE INFRASTRUCTURE AS A SERVICE",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T19:00:00.000Z",
+          "presenters": "Tim Radney",
+          "description": "Do you need better scale and availability for your SQL Server environment? Azure Infrastructure as a Service can help. Come learn how easy it is to configure Azure virtual machines and migrate your workloads. This session will show you how to select the proper machine size and how to benchmark your environments, as well as discuss various methods to migrate from on-premises. We'll also take a look at the built in monitoring features available within the Azure Portal to keep tabs on your environment. If you've been considering Azure IaaS for your organization, this session is for you!"
+        },
+        {
+          "id": 67,
+          "name": "MACHINE LEARNING, ARTIFICIAL INTELLIGENCE, AND DEEP LEARNING FOR THE DATA PROFESSIONAL",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T19:00:00.000Z",
+          "presenters": "Buck Woody",
+          "description": "Whether you set up and operate data processing systems or write programs that use them, modern databases like Microsoft's SQL Server have facilities to work with Machine Learning constructs. In this session, Buck Woody – a Data Scientist from Microsoft Engineering - will explain Machine Learning, Artificial Intelligence and Deep Learning, all with examples from the SQL Server Platform. You'll see practical examples of ML, AI and DL, right within the SQL Server platform, and get resources to learn more and try out the examples on your own."
+        },
+        {
+          "id": 68,
+          "name": "PRACTICAL TEAM MANAGEMENT FOR THE IT PROFESSIONAL",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Michael Krasowski",
+          "description": "As a new or current leader/manager of a technical team, you need the necessary tools, processes and approaches to be successful in achieving your organization’s business goals. 1. You will learn how to align your activities to the business while managing customer expectations through effective communication techniques. 2. Secondly, you will learn how to build your team’s structure, its capabilities and how to acquire just the right talent to join your team. 3. Lastly, you will learn 10 key basic team management processes that you can easily employ with your team. When you are finished with this course, you will have new methods, processes, and improved management skills to support your activities and responsibilities as a manager or team leader. You manager has approached you to begin managing a small team of software engineers and to focus the team’s work on targeted business goals. Normally you are used to receiving and implementing only technical assignments only for yourself. You are a little unsure and perplexed on just how to begin your new assignment. Where might you start? What is the approach or processes do you need to accomplish your new work assignment? How might you create and make assignments to your new team? How do you determine the “targeted business goals” your manager was asking of you? What processes should I have and how do I define them? Looking for answers? This class is for you."
+        },
+        {
+          "id": 69,
+          "name": "THE GREAT MINIBAR CHALLENGE: MIXOLOGY WITH NATIVESCRIPT-VUE AND TENSORFLOW",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Jen Looper",
+          "description": "How many hours of human potential are wasted by standing in front of a refrigerator, trying to figure out what kind of ingredients can pair together to create a meal? For folks who travel, the end of a day at work is often brought to a crashing halt as you stare sadly into your hotel’s minibar, trying to figure out a nightcap from the odd assortment of tiny bottles on the shelf. What if there was a mobile app that could intelligently scan the bottles and use machine learning with a custom trained model to suggest for you the World’s Greatest Minibar Cocktail? What if that app was written using NativeScript-Vue, and the training was done using TensorFlow? In this talk, we’ll learn how to create a native mobile app using Vue.js, and how to integrate TensorFlow custom models, creating a truly custom experience. Join me as we walk through the creation of MixoLogy, sampling an original creation concocted for you via machine learning, based on a scan of a minibar. One more of life’s little problems, solved through technology."
+        },
+        {
+          "id": 70,
+          "name": "TROUBLESHOOTING QUERY PLANS: PART1-ROOT CAUSE ANALYSIS AND CACHING PROBLEMS",
+          "startsAt": "2019-06-11T17:45:00.000Z",
+          "endsAt": "2019-06-11T19:00:00.000Z",
+          "presenters": "Kimberly Tripp",
+          "description": "When you review a query plan, what do you look at first? You probably find the most-costly operation and then look to see if SQL Server \"knew\" what it was doing? Did it get the right estimate? Yep, just what you thought – it’s the statistics. So, you update the statistics and it fixes the problem. Problem solved! Or, was it? One of the most common “false positives” that people see is that updating statistics “fixes” a problem. In this first session, I’ll decipher at bit with your query plans: where to look, what to look for, and how to know the truth. Then, once we determined if something is a caching problem or a statistics problem, we'll look at actually solving the problem. Updating statistics is often not the right long-term the solution!"
+        },
+        {
+          "id": 71,
+          "name": "Smart Angular Applications, How to incorporate AI into your existing Angular applications",
+          "startsAt": "2019-06-11T18:15:00.000Z",
+          "endsAt": "2019-06-11T18:45:00.000Z",
+          "presenters": "Aysegul Yonet",
+          "description": "Today, smart consumer applications that talks to us, learn our behavior and recommend solutions tailored to our needs are part of our daily lives. We do expect a streaming service to recommend content according to our interests, a delivery service to estimate delivery time and a virtual assistant to understand our questions. Although we all enjoy these features, we do design our applications without smart interactions in mind. In this talk we will talk about using Artificial Intelligence to predict risks and decrease costs. How we can use analytical solutions that draw on user behavior data, to predict and improve our costumer’s outcomes. We will look at an existing Angular application example and turn it into a smart application."
+        },
+        {
+          "id": 72,
+          "name": "Break",
+          "startsAt": "2019-06-11T18:45:00.000Z",
+          "endsAt": "2019-06-11T19:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 73,
+          "name": "Break",
+          "startsAt": "2019-06-11T19:00:00.000Z",
+          "endsAt": "2019-06-11T19:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 74,
+          "name": "COMMON TASKS FOR THE CLOUD DBA",
+          "startsAt": "2019-06-11T19:15:00.000Z",
+          "endsAt": "2019-06-11T20:30:00.000Z",
+          "presenters": "Tim Chapman",
+          "description": "Using the cloud as a host for our precious SQL Server databases can seem scary at times. With so many new features and ways to perform tasks, keeping up with all of the new technology can seem daunting. However, the learning curve is not as steep as you might suspect, and all of the new cloud innovations can make your life as a DBA so much more efficient. In this session, we will take a look at how Azure IAAS VMs and Azure SQL Database features can be used to accomplish some of your more common DBA tasks much more easily, and sometimes in a fraction of the time. We will look at things such as Backup and Restore capabilities for databases using Azure storage as well as performance tuning options."
+        },
+        {
+          "id": 75,
+          "name": "Scott Hanselman and Friends",
+          "startsAt": "2019-06-11T19:15:00.000Z",
+          "endsAt": "2019-06-11T20:15:00.000Z",
+          "presenters": "Scott Hanselman",
+          "description": ""
+        },
+        {
+          "id": 76,
+          "name": "SECURE MACHINE LEARNING IN SQL SERVER",
+          "startsAt": "2019-06-11T19:15:00.000Z",
+          "endsAt": "2019-06-11T20:30:00.000Z",
+          "presenters": "Buck Woody",
+          "description": "Microsoft SQL Server has multiple methods to create, train, and serve Machine Learning models. The advantages of using SQL Server for this process are that the data stays completely contained within the security boundaries of your SQL Server environment, your developers use familiar Transact-SQL statements to interact with the model, and Data Scientists use the tool of their choice – Python or R to develop models. In this session Buck Woody, an Applied Data Scientist will lead you through the concepts of Machine Learning in SQL Server and show you two practical tutorials you can use at your organization."
+        },
+        {
+          "id": 77,
+          "name": "TROUBLESHOOTING QUERY PLANS: PART2-STATISTICS PROBLEMS",
+          "startsAt": "2019-06-11T19:15:00.000Z",
+          "endsAt": "2019-06-11T20:30:00.000Z",
+          "presenters": "Kimberly Tripp",
+          "description": "Continuing on the theme from part 1, we'll have already differentiated between caching and statistics problems and found out why updating statistics often gives a false positive! But what if the real problem *is* statistics-related? In this session, I'll show you how statistics are used and what they're telling us as well as the potential lies they might contain! Even better though, I'll show you some cool tips for making the lies go away!"
+        },
+        {
+          "id": 78,
+          "name": "USING SERVICE BROKER, ENCRYPTION, AND REPLICATION WITH AVAILABILITY GROUPS",
+          "startsAt": "2019-06-11T19:15:00.000Z",
+          "endsAt": "2019-06-11T20:30:00.000Z",
+          "presenters": "Jonathan Kehayias",
+          "description": "Availability Groups have become incredibly popular since being introduced in SQL Server 2012 as an HA/DR solution. However, the interoperability of AGs with other common features in SQL Server like Service Broker, Transparent Data Encryption, standard encryption, and more isn’t just a simple deployment. In this session, you'll learn the compatibility requirements for using common SQL Server features with Availability Groups, the problems you'll likely run into, and how to have a successful deployment. Everything we’ll cover is based on extensive experience working with clients using Availability Groups in a variety of production scenarios."
+        },
+        {
+          "id": 79,
+          "name": "Exhibit Hall Opening Reception",
+          "startsAt": "2019-06-11T20:30:00.000Z",
+          "endsAt": "2019-06-11T22:00:00.000Z",
+          "presenters": "",
+          "description": "Bring your drink ticket, T-shirt Giveaway"
+        },
+        {
+          "id": 80,
+          "name": "Continental Breakfast",
+          "startsAt": "2019-06-12T11:30:00.000Z",
+          "endsAt": "2019-06-12T12:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 81,
+          "name": "Laying the Foundation for Your DevOps Transformation with Azure DevOps",
+          "startsAt": "2019-06-12T12:30:00.000Z",
+          "endsAt": "2019-06-12T13:30:00.000Z",
+          "presenters": "Steven Murawski",
+          "description": "Keynote by Steven Murawski"
+        },
+        {
+          "id": 82,
+          "name": "The SQL Server 2019 Data Platform",
+          "startsAt": "2019-06-12T12:30:00.000Z",
+          "endsAt": "2019-06-12T13:45:00.000Z",
+          "presenters": "Bob Ward,Buck Woody",
+          "description": "Keynote by Bob Ward & Buck Woody"
+        },
+        {
+          "id": 83,
+          "name": "Coffee Break",
+          "startsAt": "2019-06-12T13:45:00.000Z",
+          "endsAt": "2019-06-12T14:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 84,
+          "name": "AN INTRODUCTION TO REACT: HOOKS EDITION",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Elijah Manor",
+          "description": "Facebook's React library has received quite a bit of attention lately. In this session we will describe what React is, who uses it, and why it's a compelling technology to use. After a high level overview we will start to unpacking the ins and outs of creating and using React components. We will talk about class components, stateless function components, and dig into the newest edition of stateful function components with React Hooks. \"My favorite part of React is what I loved about MooTools: to use it effectively you learn JavaScript, not a DSL: useful your whole career.\" --Ryan Florence React by itself is fairly small and not overly complex. For a more comprehensive Single Page Application you need much more than just React. To address these concerns we will discuss techniques to address data flow, introduce the concept of Isomorphic JavaScript, and identify other libraries that are common when building a full application."
+        },
+        {
+          "id": 85,
+          "name": "BLAZOR, A NEW FRAMEWORK FOR BROWSER-BASED .NET APPS",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Ryan Nowak",
+          "description": "Today, nearly all browser-based apps are written in JavaScript (or similar languages that transpile to it). Starting now, WebAssembly opens the floodgates to new choices, and one of the first realistic options may be .NET. We’re adding a simpler and powerful component programming model to ASP.NET Core and Razor that runs on the client or server. Blazor is a new experimental web UI framework from the ASP.NET team that aims to brings .NET applications into all browsers (including mobile) via WebAssembly. It allows you to build true full-stack .NET applications, sharing code across server and client, with no need for transpilation or plugins. In this talk I’ll demonstrate what you can do with Components and Blazor today and how it works on the underlying WebAssembly runtime behind the scenes. You’ll get a tour of the modern, component-based architecture (inspired by modern SPA frameworks) at work as we use it to build a responsive UI. We’ll cover our plans for running components on the server in ASP.NET Core 3.0 and on the client using Blazor."
+        },
+        {
+          "id": 86,
+          "name": "BUILDING REAL-TIME DATA ANALYTICS IN AZURE",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Joel Hulen",
+          "description": "One of the biggest data challenges today is how to ingest, process, and analyze real-time data at scale. As you know, not all data is static or only occasionally handled with batch processes. With the advent of internet of things (IoT) and the rise of other forms of streaming data, like clickstream data generated by web traffic, the pressure is on to react to and analyze this information in real time, or near-real time. In this session, we introduce the concepts surrounding real-time data analytics and what options we have at our disposal to build a pipeline in Azure that helps us successfully meet these challenges."
+        },
+        {
+          "id": 87,
+          "name": "DEPEND ON DOCKER FOR WINDOWS CONTAINERS ON AZURE",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Alex Iankoulski,Dr. Mahadevan Balasubramaniam",
+          "description": "Depend on Docker is a series of talks that started at DockerCon 2018. These talks converge to the point that the only first order dependency you need for all your software projects is Docker. This talk focuses on running, building, and orchestrating Windows containers on the Microsoft Azure Cloud by using our open source project template. In an ideal world, it does not matter whether your software is built for Linux or Windows, and both of your Windows and Linux workloads can run side by side. We will demonstrate that with the help of Docker."
+        },
+        {
+          "id": 88,
+          "name": "EMERGING AI PATTERNS: MACHINE LEARNED SYSTEMS WITH SIGHT",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Tim Huckaby",
+          "description": "How is AI, Computer vision, machine learning, and mixed reality designed into innovative software built on the latest and greatest emerging technical experiences? Join Tim Huckaby in a session focused on the power of Computer Vision: Designing, developing, and putting interactive vision-based software systems into production. This demo-heavy session will demonstrate and explain the components of computer vision like machine learning and demonstrate the use cases where computer vision solutions are happening. Moreover, speculate on the computer vision solutions of the future. This session will explain how computer vision sits in a wide-ranging area of Artificial intelligence absorbed in Ambient Intelligence - Tracking people and objects in a physical space. In many ways this is using AI to both map a physical space and activity to a digital space, and then allowing actions on top of the digital graph. This demo-heavy session will show you: • The Software Architecture concepts for Cloud, Edge & hybrid models of computer vision implementations • a number of real interactive computer vision solutions in the realm of sensors & cameras and how they are built • How AR & mixed reality devices use computer vision for immersive, interactive 3D and holographic experiences. • The latest breakthroughs in Machine Learning models for computer vision"
+        },
+        {
+          "id": 89,
+          "name": "FROM PRE-BUILT TO CUSTOM: DEPLOYING ML MODELS ACROSS THE AI SPECTRUM",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Kyle Bunting",
+          "description": "AI has become an integral part of modern technological solutions and understanding how to leverage AI and ML has never been more important. The AI spectrum encompasses everything from using pre-built AI, such as Cognitive Services, to pre-built models “customized” with your data to fully custom AI. This session will provide an overview of AI and ML at each level of the AI spectrum, and discuss various methods for deploying your models for use in your applications."
+        },
+        {
+          "id": 90,
+          "name": "FUNCTIONAL TECHNIQUES FOR C#",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Kathleen Dollard",
+          "description": "FUNCTIONAL TECHNIQUES FOR C#"
+        },
+        {
+          "id": 91,
+          "name": "REACTIVE POWERED: RXJS WITH ANGULAR FORMS",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T14:30:00.000Z",
+          "presenters": "Shmuela Jacobs",
+          "description": "Angular’s Reactive Forms module gives us a lot of control and flexibility to easily build and define our forms. While looking at async data and form lifecycle events as streams, we can leverage the power of RxJS to react to these events. Presenting a non-trivial custom form control, Shmuela will show how she uses Observables when creating the form, reacting to value and state changes, and validating the input."
+        },
+        {
+          "id": 92,
+          "name": "SCIENCE OF GREAT UI, PART 1 (EFFICIENCY IN THOUGHT & MOTION)",
+          "startsAt": "2019-06-12T14:00:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Mark Miller",
+          "description": "Explore the how and why of great UI. If you believe you’re not an artist, that UI is subjective, or that Great UI takes too much effort, then this session is for you. Learn how to enhance clarity, reduce visual noise, lower barriers to entry, and make your interfaces discoverable, responsive, and a pleasure to use. It’s all about making customers satisfied, and this entertaining and information-packed workshop will show you how. Part 1 of 3."
+        },
+        {
+          "id": 93,
+          "name": "DATA ESTATE MODERNIZATION: ON PREMISE AND AZURE SQL DATABASE AS A HYBRID ENVIRONMENT",
+          "startsAt": "2019-06-12T14:15:00.000Z",
+          "endsAt": "2019-06-12T15:30:00.000Z",
+          "presenters": "Kevin Farlee",
+          "description": "We'll discuss the ways many companies are modernizing their data estates, starting from possibly old versions of SQL Server on premise, and moving to a combination of current SQL Server versions, on Windows and Linux, as well as Azure SQL Database, where you never need to worry about falling behind."
+        },
+        {
+          "id": 94,
+          "name": "SQL SERVER 2008 END OF SUPPORT (EOS): AZURE PLANNING AND MIGRATION STRATEGIES",
+          "startsAt": "2019-06-12T14:15:00.000Z",
+          "endsAt": "2019-06-12T15:30:00.000Z",
+          "presenters": "David Pless",
+          "description": "More than a decade has passed since Microsoft shipped SQL Server 2008. The data platform has matured over this period of time in every area imaginable. For customers continuing to run Windows Server and SQL Server 2008 / R2, these releases are reaching the end of their support lifecycle. End of support means the end of security updates, which can cause security and compliance issues and put applications and your business at risk. We recommend upgrading to the current version for the most advanced security, performance, innovation and to leverage Azure for the best migration opportunity. In this session we will focus on the different platforms to migrate your applications including Azure SQL Database, Azure Managed Instance, and SQL Server 2017+. We will discuss 'What’s New in SQL Server 2017' since the SQL Server 2008 & 2008 R2 release and how to best address any behavioral scenarios and migration blockers. For Azure migrations, we will discuss migrating apps and your databases running on SQL Server 2008/2008 R2 to a SQL 2008/R2 IaaS platform – to get three additional years of security updates. For on-premises upgrades, we will cover upgrading to the most current versions of SQL Server and how the features in SQL Server 2017+ can help address performance and stability issues that may occur during the migration. We will cover an overview of the migration tools and services that help you analyze and migrate your database solutions with minimal risk. Finally, we will cover post-migration best practices in validating the success of the migration and methods that can be used to optimize your experience on the new platform."
+        },
+        {
+          "id": 95,
+          "name": "SQL SERVER IN CONTAINERS; YOUR NEXT DEVELOPMENT/TEST/INTEGRATION/UPGRADE SYSTEM",
+          "startsAt": "2019-06-12T14:15:00.000Z",
+          "endsAt": "2019-06-12T15:30:00.000Z",
+          "presenters": "Grant Fritchey",
+          "description": "Finally, it's become easy for SQL Server developers and DBAs to use containers to speed up software development and testing. Containers have been around for more than 30 years, and at last they have become a great tool for Microsoft data professionals. Join Grant Fritchey to learn how containers differ from virtual machines, and why containers make it incredibly fast to deploy new instances of SQL Server. Grant will use Docker containers to demo the process of spinning up a new SQL Server using the very latest version of the product -- without actually installing SQL Server! Finally, you'll learn how containers can be used in the software development lifecycle to speed up the process of developing, testing, and deploying changes."
+        },
+        {
+          "id": 96,
+          "name": "WHAT'S NEW: QUERY PERFORMANCE INSIGHTS",
+          "startsAt": "2019-06-12T14:15:00.000Z",
+          "endsAt": "2019-06-12T15:30:00.000Z",
+          "presenters": "Pedro Lopes",
+          "description": "This session will showcase several improvements in SQL Server, focusing on the latest and upcoming query performance diagnostics and query processing enhancements that address some of the most common customer pain points. Ranging from new xEvents and Showplan improvements, to new tools that ease you into troubleshooting processes, learn how you can leverage faster insights and become the hero of the day!"
+        },
+        {
+          "id": 97,
+          "name": "RXJS OPERATORS - REAL WORLD USE CASES, ANTI PATTERNS & DEBUGGING",
+          "startsAt": "2019-06-12T14:30:00.000Z",
+          "endsAt": "2019-06-12T15:00:00.000Z",
+          "presenters": "Tracy Lee",
+          "description": "Level: 200 Do you feel like you spend too much time wondering which operator to use in RxJS? What's the difference between this operator and that operator? Are you using RxJS operators correctly in Angular, or are you introducing anti-patterns into your code? And when there is a memory leak in your application, do you know how to properly debug your RxJS operator chain? In this talk we'll talk about what RxJS is doing in your Angular applications by going through simple explanations of operators, real world use cases, and comparing similar operators in RxJS. We will also go through some practical tips on how to properly debug RxJS."
+        },
+        {
+          "id": 98,
+          "name": "Break",
+          "startsAt": "2019-06-12T15:00:00.000Z",
+          "endsAt": "2019-06-12T15:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 99,
+          "name": "DEVOPS FOR DESKTOP APPS",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Ricardo Minguez Pablos",
+          "description": "Client applications have unique requirements for DevOps, this session will show you how to use Azure to deploy MSIX based applications in an efficient and secure way. We will cover branching strategies, versioning, packaging and automatic deployment using Azure Pipelines. Also we will discuss new features and deployment options enabled to desktop developers with .NET Core 3."
+        },
+        {
+          "id": 100,
+          "name": "DOMO ARIGATO. BOTS DO WHAT NO ONE WANTS TO.",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Joel Hulen",
+          "description": "When it comes to bots, we have a lot to be thankful for. Bots do mundane jobs we don't want to, like instantly answer questions to random people online, providing (sometimes) helpful information in reply to basic questions. Bots have a lot they can offer society beyond being a glorified interactive FAQ. There are also things that bots are not good at, for the time being. But, what are those things? In this session, we explore some uses for bots and how they are built on top of Azure services, and made smarter with AI. We also talk about the things that they are not so good at, or at least some misconceptions people have about some of the jobs they should be doing. Hopefully you will be inspired by what's possible today, and build bots that do the jobs that you don't want to!"
+        },
+        {
+          "id": 101,
+          "name": "GRANT YOUR SPA APP THE POWER OF GRAPHQL",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-12T15:45:00.000Z",
+          "presenters": "Chris Noring",
+          "description": "GraphQL is a new way of building APIs. It brings content negotiation powers to the client, helps with serializing and much more. This session will show how to define a schema in GraphQL, define resolvers and also how to consume said server using Apollo. We will build a React application that will read and write data to/from our GraphQL server."
+        },
+        {
+          "id": 102,
+          "name": "LEADERSHIP AND COMMUNICATION SKILLS FOR THE IT PROFESSIONAL",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Michael Krasowski",
+          "description": "Want to immediately make an impact on your leadership and communication capabilities? Whether you are a software engineer or a team leader, this course will help you be more effective at building more constructive professional relationships as well as leading and managing people. IT professionals have a great set of technical skills but may be wanting essential leadership and communication skills that are required to meet the performance expectations of their management, company and possibly, of themselves. • Learning Objective 1: First, you will learn why strong communication skills are a priority in today’s work environment and that your effectiveness as a leader is directly tied and interlocked with communication skills. • Learning Objective 2: Secondly, you will learn the 5 C’s of enhancing your communication effectiveness that you can begin applying when you return to work. • Learning Objective 3: Lastly you will learn how to implement techniques to improve your effectiveness with your presentations, meetings, emails, status reports and of course your team, your management and your customers."
+        },
+        {
+          "id": 103,
+          "name": "SCIENCE OF GREAT UI, PART 2 (DESIGN LIKE A PRO)",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Mark Miller",
+          "description": "Get a big boost on your UI skills. Regardless of whether you're building interfaces for watches, phones, tablets, desktops, elevators, automobiles, or interplanetary spaceships; you'll learn how to expertly apply tools from the designer's palette to your designs. We'll discuss contrast, color, shadow, size, opacity, layout, proximity, borders, information dimension, symbols, and graphic languages. Part 2 of 3."
+        },
+        {
+          "id": 104,
+          "name": "SERVERLESS AND AZURE FUNCTIONS PRO-TIPS AND TRICKS",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Jeff Hollan",
+          "description": "Azure Functions enables you to build cloud scale applications without having to manage the underlying infrastructure. However, serverless does introduce a new paradigm in how applications can be built. Learn best practices, tips, and tricks from the product manager of Azure Functions based on learnings from real-world use cases around the world."
+        },
+        {
+          "id": 105,
+          "name": "SIGNALR: REAL-TIME FOR ALL THE THINGS",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Brady Gaster",
+          "description": "You may know a bit about SignalR from its upbringing as the real-time framework for .NET. While still true in that SignalR for .NET Core is a thing now, SignalR has evolved and is no longer “just for .NET developers.” With the new Azure SignalR Service providing a common back-end for any real-time app needs you have, you can use the various client SDKs now available for SignalR – JavaScript and Java, to name a few – without any .NET Code. In addition, there is a multitude of support for new serverless opportunities you can tap into with SignalR, like the new SignalR bindings for Azure Functions. With other advanced capabilities in SignalR like non-JSON payload support and streaming, it’s never been a better time to do real-time than right now. In this demo-heavy, interactive session you’ll be up and running with SignalR in new and more exciting ways."
+        },
+        {
+          "id": 106,
+          "name": "SURVIVING MICROSERVICES",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Michele Bustamante",
+          "description": "Ah, the promises of Microservices. Small manageable services. Independent life cycles. More features, faster, and with fewer regressions. Unlimited scale. Asynchronous messages. Events and messaging strategies. Audit and history. Eventual consistency bliss. Containers everywhere. It sounds fantastic right? And, it can be, for some. Will you be one of them? This session will contemplate how to survive this seductive approach toward solution architecture - with the many pitfalls in mind - and with the reasons why it's worth the effort."
+        },
+        {
+          "id": 107,
+          "name": "WRITE ONCE, RUN ANYWHERE!",
+          "startsAt": "2019-06-12T15:15:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Joseph Guadagno",
+          "description": "The open source Ionic Framework features a rich library of front-end building blocks and UI components that make it easy to design beautiful, high-performance mobile and Progressive Web Apps (or PWAs) using web technologies like HTML, CSS, and JavaScript. Our universal web components pair with any JavaScript framework, including Angular, React, Vue, or no framework at all (just add a script tag!). Ionic apps are backend agnostic, with connections to AWS, Azure, and Firebase. With this session, we are going to look at how with using the Ionic Framework you can build an application that you write once and run on any device, iOS, Android, UWA, Browser, and/or desktop."
+        },
+        {
+          "id": 108,
+          "name": "Break",
+          "startsAt": "2019-06-12T15:30:00.000Z",
+          "endsAt": "2019-06-12T15:45:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 109,
+          "name": "AZURE SQL DATABASE HYPERSCALE: UNLIMITED VLDB SCALE WITHOUT THE VLDB HEADACHES",
+          "startsAt": "2019-06-12T15:45:00.000Z",
+          "endsAt": "2019-06-12T17:00:00.000Z",
+          "presenters": "Kevin Farlee",
+          "description": "We'll talk about the new Hyperscale service tier of Azure SQL Database, and how it achieves virtually unlimited scale, while enabling fluid scaling of resources, and avoiding the headaches normally associated with very large databases. We'll discuss the architecture behind the features, as well as some concrete, real-world examples of customers deploying Hyperscale today."
+        },
+        {
+          "id": 110,
+          "name": "INSIDE SQL SERVER CONTAINERS",
+          "startsAt": "2019-06-12T15:45:00.000Z",
+          "endsAt": "2019-06-12T17:00:00.000Z",
+          "presenters": "Bob Ward",
+          "description": "Containers are the “new virtual machines”. Containers present a new way to deploy, manage, and run SQL Server never seen before. Come learn the fundamentals of the promise of containers, how to deploy containers with SQL Server, and the wizardry of patching SQL Server in a new way that will leave you amazed and wanting to know more. You will see live demos of using SQL Server containers and understand why they actually compliment your virtual machine investments."
+        },
+        {
+          "id": 111,
+          "name": "MIGRATION STRATEGIES",
+          "startsAt": "2019-06-12T15:45:00.000Z",
+          "endsAt": "2019-06-12T17:00:00.000Z",
+          "presenters": "Tim Radney",
+          "description": "Migrating and upgrading SQL Server is much more complex than running setup.exe, or at least it should be. Each version of SQL Server has brought us new features and performance improvements. We have several tools to help us check for compatibility and performance improvements/degradations. These tools can help evaluate hardware upgrades as well as SQL Server versions. This session will cover lessons learned from in-place upgrades and migrations and how you can prevent many of the same mistakes. This session will take demonstrate the benefits of using Database Experimentation Assistant as well as Database Migration Assistant."
+        },
+        {
+          "id": 112,
+          "name": "MINIMAL MEAN: FULL STACK TYPESCRIPT",
+          "startsAt": "2019-06-12T15:45:00.000Z",
+          "endsAt": "2019-06-13T04:15:00.000Z",
+          "presenters": "Doguhan Uluca",
+          "description": "TypeScript is JavaScript that scales, ready for your personal projects and the enterprise. In this session, we will use TypeScript with Angular, Node and MongoDB to stand up a full stack application from scratch, while sticking close to the metal and avoiding unnecessary libraries or tools. We will then containerize the individual layers using Docker, followed by full stack deployment automation with Docker Compose and AWS ECS. Seeing how the stack is put together will enable you to use the GitHub \"excellalabs/minimal-mean\" project as a seed project to get you started and deployed on the cloud."
+        },
+        {
+          "id": 113,
+          "name": "PRACTICAL GUIDANCE TO MAKE YOUR TIER-1 SQL SERVER ROAR",
+          "startsAt": "2019-06-12T15:45:00.000Z",
+          "endsAt": "2019-06-12T17:00:00.000Z",
+          "presenters": "Pam Lahoud,Pedro Lopes",
+          "description": "Whether you are new to managing SQL Server or a seasoned database administrator, you may be unsure of the latest and greatest recommendations for configuring and maintaining a high-performance tier-1 database system. As we approach the impending need to modernize your SQL Server 2008/2008R2, the SQL Server team lays out the current guidance for configuring and tuning SQL Server on modern, high-end hardware. Topics include, but are not limited to, tempdb configuration, disk configuration, memory configuration, trace flags, Query Store, tools, automatic tuning, and index/stats maintenance."
+        },
+        {
+          "id": 114,
+          "name": "Lunch",
+          "startsAt": "2019-06-13T04:15:00.000Z",
+          "endsAt": "2019-06-12T18:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 115,
+          "name": "Lunch",
+          "startsAt": "2019-06-12T17:00:00.000Z",
+          "endsAt": "2019-06-12T18:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 116,
+          "name": "ANGULAR SCHEMATICS - THE UNKNOWN HERO",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T18:30:00.000Z",
+          "presenters": "Chris Noring",
+          "description": "Behind every great tool is a great library. Schematics is the unknown hero behind Angular CLI but also some upgrade tools. Ever wondered how scaffolding a component really happens or how you would insert some code in just the right place in the code file? Wonder no more. This session is about showing what Schematics can do and how you can build your own Schematics that will scaffold or change code in existing files or something else, everything to your bidding."
+        },
+        {
+          "id": 117,
+          "name": "AZURE SQL DATABASE MANAGED INSTANCE: THE MOST COMPATIBLE PLATFORM AS A SERVICE DATABASE ON THE PLANET",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:15:00.000Z",
+          "presenters": "Kevin Farlee",
+          "description": "We will discuss Azure SQL Database Managed Instance, a new deployment model which provides full SQL Server compatibility, removing almost all migration blockers when moving from on-premise SQL Server to an Azure PaaS SQL offering. We'll go into the architecture, capabilities, and limitations of the technology, and demonstrate migrating an application from SQL Server to Azure SQL Database Managed Instance."
+        },
+        {
+          "id": 118,
+          "name": "BEYOND HELLO WORLD - COMMON MACHINE LEARNING USE CASES WITH ML.NET",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Dr. Adnan Masood",
+          "description": "ML.NET is an open source and cross-platform machine learning framework built for .NET developers. You can use your .NET and C# or F# skills to easily integrate custom machine learning into your applications without any prior expertise in developing or tuning machine learning models. In this talk we will write code in ML .NET to build the use cases around sentiment analysis, price prediction, Product recommendation, Customer segmentation, Spam detection, and sales forecasting to showcase the power and ease of framework."
+        },
+        {
+          "id": 119,
+          "name": "BUILDING BETTER AGILE SPRINT PLANS",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Michael Krasowski",
+          "description": "If you are challenged with creating rapid, solid sprint plans and struggling with mid-sprint issues, incomplete work at the end of a sprint, the treatment of bugs and when to apply ‘spikes’ then this session is for you. In this session, Building Better Agile Sprint Plans, you will learn the skills, approaches, and techniques to advance your essential sprint planning capabilities. First, we will quickly review key Agile, Scrum and sprint terms, definitions, roles, artifacts and processes to provide the basis for this session and cover the numerous benefits of having a solid Agile planning process and what the outcomes and expectations of sprint planning should be. Next, you will learn the activities regarding the product backlog, user stories, sprint planning, sprint backlog, the sprint itself, daily scrum or stand up, the potentially shippable product and lastly the sprint review and retrospective. Included will be sprint management activities such as sprint status, burndown, and developing velocities. Finally, this session will not only cover the “happy path” planning process, but once the sprint is launched and is “in-flight,” we will explore how to handle the myriad of issues that may affect and impede your plan, such as: bugs, staffing, ‘spikes’, and incomplete work and what options you can apply to mitigate them. When you’re finished with this session, you will have the skills and knowledge of how to improve, execute and deliver high quality sprint plans; and what options you have if things ‘go wrong.’"
+        },
+        {
+          "id": 120,
+          "name": "BULLETPROOF TRANSIENT ERROR HANDLING WITH POLLY",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Carl Franklin",
+          "description": "Connected applications only work when connected. What happens if the network breaks temporarily? Will your system recover smoothly or pitch a fit? Using an OSS project called Polly (available on GitHub) you can handle this and many other transient situations with elegance and fluency. Polly lets you define retry policies using standard patterns such as retry, retry forever, wait and retry, and circuit breaker. Learn how to make your system bulletproof with Polly and a little know-how."
+        },
+        {
+          "id": 121,
+          "name": "COMPLETE DATABASE MIGRATION WITH POWERSHELL",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:15:00.000Z",
+          "presenters": "Ben Miller",
+          "description": "With SQL 2008 going out of support this year, there is a greater need to migrate to a more recent version. There are many ways to do this, but I am here to introduce you to the DBATools module in PowerShell. There is a complete set of commands that make migration a breeze. Not only full migrations, but even in pieces. Copying Logins, Linked Servers, Jobs is simple with this module. I will show you how you get your environment set up to use it as well as perform a full migration right before your eyes. Whether you are dealing with 1 server or multiple servers, these commands work great. I will actually show you a complete migration in our time in this session. This will be the best hour you’ve spent in a long time. Join me for a fun filled time to become a PowerShell DBA."
+        },
+        {
+          "id": 122,
+          "name": "DEPEND ON DOCKER FOR SCALE ON AZURE",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Alex Iankoulski,Dr. Mahadevan Balasubramaniam",
+          "description": "Depend on Docker is a series of talks that started at DockerCon 2018. These talks converge to the point that the only first order dependency you need for all your software projects is Docker. This talk focuses on running containers at scale on Azure. We will share our experience and lessons learned while running thousands of containerized workloads in parallel, as well as show a use case, architecture, and demonstration of a massively parallel container orchestration system."
+        },
+        {
+          "id": 123,
+          "name": "MACHINE LEARNING THE .NET WAY",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Bri Achtman",
+          "description": "ML.NET is a free, cross-platform, and open source machine learning framework for .NET developers. It is also an extensible platform that powers Microsoft services like Windows Hello, Bing Ads, PowerPoint Design Ideas, and more. This session focuses on what’s new with the ML.NET 1.0 release and through a variety of demos describes how to build custom ML models like issue classification, object detection and recommender systems from scratch. This session will also introduce the newly added AutoML support, Visual Studio tooling experience and support for Deep Learning with ML.NET. This is one demo rich session and a great way to get a jump start with Machine Learning using ML.NET!"
+        },
+        {
+          "id": 124,
+          "name": "MICROSERVICES 101 - GETTING STARTED WITH .NET CORE AND KUBERNETES",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Brady Gaster,Glenn Condron",
+          "description": "With .NET Core, developers can build high-performance applications that scale using containerization, and the tools built in to Visual Studio and Visual Studio Code that make it easy to package applications and deploy them to Kubernetes. When you pair these tools with the built-in microservice support .NET Core offers with advancements like Health Checks and a flexible configuration model, you'll learn how to adapt your code to make use of the features the Kubernetes engine provides. If you've been wondering how to start building applications for microservices but have been intimidated by the barrage of tools and options, start with this session to get your feet wet building microservices with .NET Core."
+        },
+        {
+          "id": 125,
+          "name": "QUERY STORE IN SQL SERVER 2019",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:15:00.000Z",
+          "presenters": "Grant Fritchey",
+          "description": "Getting query performance monitoring right, even with the excellent tools available, can be a struggle. Don't you wish you could just flip a switch and have the query metrics gathered for you? Well, with the Query Store, you can do exactly that. What’s more, the Query Store is a vital part of any upgrade from a previous version of SQL Server (especially any prior to SQL Server 2014). This session will cover the information that Query Store gathers and how it is gathered. You’ll also learn how Query Store takes an active and direct role in your upgrade path to SQL Server 2019. The information in this session will empower you to more easily monitor query performance, respond to regressions of that performance and more easily upgrade your SQL Server databases, all at the flick of a switch."
+        },
+        {
+          "id": 126,
+          "name": "SECURING CALLS TO WEB APIS FOR JAVASCRIPT/SPA APPLICATIONS",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Brock Allen",
+          "description": "Modern web development means that more and more application code is running in the browser as JavaScript. This architectural shift requires us to change how we perform authentication and authorization. Fortunately, using modern protocols such as OpenID Connect and OAuth 2.0 you don’t need to invent your own solution for this new environment. This session will show you the modern approach for browser-based JavaScript applications to authenticate users, and perform secure web API invocations. As you might expect, security is sufficiently complex and so even modern security comes with its own set of challenges. Luckily, we will show off some libraries that help manage this complexity so your application doesn’t have to."
+        },
+        {
+          "id": 127,
+          "name": "THE SCIENCE OF GREAT UI, PART 3 (METRICS AND BUSINESS CASE)",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Mark Miller",
+          "description": "Think great UI/design is subjective? Is your organization reluctant to invest in improving user experience? See definitive methods, ranging from brain-dead simple to mind-blowingly high-tech to help you measure design quality. Learn how to find and use freely-available tools to analyze design quality. Mark will also show how to present a compelling business case to justify investment in great design. Part 3 of 3."
+        },
+        {
+          "id": 128,
+          "name": "WRITING FAST, SAFE DYNAMIC T-SQL",
+          "startsAt": "2019-06-12T18:00:00.000Z",
+          "endsAt": "2019-06-12T19:15:00.000Z",
+          "presenters": "Brent Ozar",
+          "description": "Your users want one query that does EVERYTHING, like searching products by size, color, stock quantity, price, and more. You've tried using OR, COALESCE, and ISNULL, and you just can't get your queries to perform well. In this all-demo session, we'll build dynamic SQL the professional way, making sure that SQL Server uses indexes when it can, make our troubleshooting as easy as possible, and avoid SQL injection."
+        },
+        {
+          "id": 129,
+          "name": "LEVERAGING ANGULAR CONCEPTS IN NODE.JS WITH NEST",
+          "startsAt": "2019-06-12T18:30:00.000Z",
+          "endsAt": "2019-06-12T19:00:00.000Z",
+          "presenters": "Kamil Mysliwiec",
+          "description": "Angular empowers us with a robust platform that simplifies structuring highly scalable and demanding applications. Nowadays, rapidly changing technologies force us to constantly learn new things. But, what if we could reuse our existing experience? Share language, design patterns, main principles? In this talk you'll learn how Nest can increase your productivity and how to start your journey to become a Full-Stack TypeScript developer."
+        },
+        {
+          "id": 130,
+          "name": "Ice Cream Break",
+          "startsAt": "2019-06-12T19:00:00.000Z",
+          "endsAt": "2019-06-12T19:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 131,
+          "name": "Ice Cream Break",
+          "startsAt": "2019-06-12T19:15:00.000Z",
+          "endsAt": "2019-06-12T19:45:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 132,
+          "name": "Bridging the Gap between document intelligence and actionable insights.",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Steve Tetrault",
+          "description": ": In this session attendees see an end-to-end solution leveraging Azure Cognitive Services to extract, enrich, combine and transform intelligence from documents into actionable insights . Behind the scenes it leverages Forms Recognition, Multi-label classification, Knowledge Store, Computer Vision and Cognitive Search."
+        },
+        {
+          "id": 133,
+          "name": "BRINGING APACHE SPARK TO .NET",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Pranav Rastogi",
+          "description": "Open Source Big Data platforms, and especially Spark, have become increasingly popular with programmers to build big data pipelines and enable in-depth data investigations with machine learning algorithms. Unfortunately, they are not easily usable for programmers with a .NET background and often requires them to learn another language such as Python or Scala. In this session, we would like to introduce you to our ongoing work of bringing Spark to the .NET programmers. We will be taking you through the motivation on why we are adding .NET support to Spark, outline our roadmap and give you examples of the Spark .NET experiences, including creating Spark jobs from .NET, using .NET to write user-defined functions and call them from Spark and Spark SQL, and writing a Spark structured streaming pipeline in .NET."
+        },
+        {
+          "id": 134,
+          "name": "COMPARING AZURE MESSAGE DELIVERY SERVICE OFFERINGS: WHEN TO USE WHICH ONE?",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Kyle Bunting",
+          "description": "Azure provides three services designed to deliver event messages: Event Grid, Event Hubs, and Service Bus. While there are some similarities between these services, each is designed for particular scenarios. This session will describe the differences and similarities between these services and provide guidance on which one to choose for your application. In addition, we will examine cases where they can be used together, along with how they compare when used for similar tasks."
+        },
+        {
+          "id": 135,
+          "name": "DEBUGGING NODE: AN UNEXPECTED JOURNEY",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Brian Clark",
+          "description": "How long did it last take you to debug and fix an issue? What if you could cut down on that time? If you choose your debugging approach wisely, you'll positively affect your efficiency in problem-solving. Let's look at the options and maybe even learn some new ones you didn't know. We'll explore console logging, node inspector and debugging right where you code. Level up your skills to be able decode defects in your apps."
+        },
+        {
+          "id": 136,
+          "name": "IMPROVE YOUR TESTING WITH VISUAL STUDIO 2019",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Kendra Havens",
+          "description": "We’ve made several improvements to the test experience in Visual Studio to help developers write tests effectively. Come learn about the new test explorer features including better sorting, filtering, and a customizable hierarchy view! This talk will also cover some main principles of testing we think about when developing testing tools. You’ll also see demos on test generation with IntelliTest, code coverage tools, and the latest in Live Unit Testing. This talk will be demo-packed with lots of productivity tips and tricks along the way."
+        },
+        {
+          "id": 137,
+          "name": "MIGRATING & MODERNIZING LEGACY APPLICATIONS USING CONTAINERS",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Shayne Boyer",
+          "description": "Gain some significant benefits from the cloud without changing the core architecture of your application. During the initial modernization, add additional services to increase reporting and logging services like Application Insights or implement CI/CD using Azure DevOps. During this talk, discover the options containers offers for scalability and deployment ease for legacy apps to pave a path to modernization."
+        },
+        {
+          "id": 138,
+          "name": "RUNNING .NET CORE IN SMALL ENVIRONMENTS, LIKE RASPBERRY PI AND CONSTRAINED CONTAINERS",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Richard Lander",
+          "description": "After years of optimizing .NET to run on big servers, we’re now making .NET Core work well in small environments, like memory constrained Docker containers and Linux cgroups. We recently added support for ARM chips, which makes it possible to run .NET on Raspberry Pi devices, including programming GPIO and PWM pins. We’re working on enabling an ecosystem of device bindings that can be used with sensors and LCD/LED panels. We are currently working with customers from around the world to use .NET in new industrial applications where resource constraints are a big factor that .NET Core needs to accommodate. Learn how you can use .NET Core in small environments."
+        },
+        {
+          "id": 139,
+          "name": "WHAT'S HAPPENING IN MY APP, APPLICATION INSIGHTS?",
+          "startsAt": "2019-06-12T19:30:00.000Z",
+          "endsAt": "2019-06-12T20:30:00.000Z",
+          "presenters": "Joseph Guadagno",
+          "description": "Azure Application Insights helps you to detect issues, diagnoses crashes and track your application usage in your application, both web, and mobile. Let’s see how you can get alerts on performance and availability issues, monitor our applications usage and performance, get telemetry for our application without needing to redeploy the applications, search traces, and exceptions logs to figure out what is wrong. Oh, did I mention we can monitor Android, iOS, Windows Mobile applications as well as ASP.NET applications? We’ll also take a look at how we can analyze request load, server performance counters and response times across dependencies. Get multi-dimensional analyzes over standard metrics or define your own. Diagnose exceptions, mobile application crashes, and failed requests, correlating with events and traces."
+        },
+        {
+          "id": 140,
+          "name": "SentryOne Tolls for Productivity and Performance",
+          "startsAt": "2019-06-12T19:45:00.000Z",
+          "endsAt": "2019-06-12T20:45:00.000Z",
+          "presenters": "Aaron Bertrand",
+          "description": ""
+        },
+        {
+          "id": 141,
+          "name": "Expo Area Open",
+          "startsAt": "2019-06-12T20:30:00.000Z",
+          "endsAt": "2019-06-12T22:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 142,
+          "name": "Expo Area Open",
+          "startsAt": "2019-06-12T20:45:00.000Z",
+          "endsAt": "2019-06-12T22:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 143,
+          "name": "Security After Dark",
+          "startsAt": "2019-06-12T23:00:00.000Z",
+          "endsAt": "2019-06-13T00:30:00.000Z",
+          "presenters": "Brock Allen,Michele Bustamante",
+          "description": "Hosted by Michele Bustamante & Brock Allen"
+        },
+        {
+          "id": 144,
+          "name": "SQLafterDark",
+          "startsAt": "2019-06-12T23:00:00.000Z",
+          "endsAt": "2019-06-13T00:30:00.000Z",
+          "presenters": "Kimberly Tripp,Paul Randal",
+          "description": "Hosted by Kimberly L. Tripp and Paul S. Randal"
+        },
+        {
+          "id": 145,
+          "name": "Continental Breakfast",
+          "startsAt": "2019-06-13T11:30:00.000Z",
+          "endsAt": "2019-06-13T12:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 146,
+          "name": "The Mechanics of SQL Server",
+          "startsAt": "2019-06-13T12:30:00.000Z",
+          "endsAt": "2019-06-13T13:30:00.000Z",
+          "presenters": "Bob Ward",
+          "description": ""
+        },
+        {
+          "id": 147,
+          "name": "What's New in Angular",
+          "startsAt": "2019-06-13T12:30:00.000Z",
+          "endsAt": "2019-06-13T13:30:00.000Z",
+          "presenters": "Brad Green",
+          "description": "Keynote by Brad Green Learn about the latest features in version 8 of Angular, learn how the Angular team sees the ecosystem and the industry, and where we're headed in the future."
+        },
+        {
+          "id": 148,
+          "name": "Coffee Break",
+          "startsAt": "2019-06-13T13:30:00.000Z",
+          "endsAt": "2019-06-13T14:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 149,
+          "name": "ARCHITECT YOUR APP SECURITY AND ACCESS MANAGEMENT",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Kyle Marsh",
+          "description": "In this session we take help you design your applications and APIs to be able to secure them and help you identify the different security strategies you can use to protect your APIs, we will cover things like Role Based Security, delegated permissions, scopes, azure API management, authorization strategies and more. It doesn’t matter if you host your applications in Azure or other cloud back ends, doesn’t matter what language you use to build your solutions. This session is relevant for any developer and architect."
+        },
+        {
+          "id": 150,
+          "name": "BUILDING API SERVICES FOR BUSINESS APPLICATIONS",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Shayne Boyer",
+          "description": "Back-end systems of record are often too complex to expose directly to the web. They are stable, hardened and dependable but they are often based on legacy technologies and not always easy to expose to Web standards like HTTP. During this session, we will look at how to evaluate existing systems and build an API."
+        },
+        {
+          "id": 151,
+          "name": "COGNITIVE SERVICES - MACHINE LEARNING FOR DEVELOPERS",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Chris Noring",
+          "description": "Machine Learning is a big topic. A lot of its practitioners are data scientists with PHDs in Math and/or Machine Learning. As a developer you can enjoy the fruits of their labour in the form of Microsofts Cognitive Services. It consists of set of APIs that can do everything from text analysis/recognition, object recognition, even analyzing videos and much much more. So many cool and useful APIs and areas of application. The choice is yours wether you want to develop the latest search and rescue software or maybe a modern \"babelfish\", a translator for all the major languages of the world. This session will showcase how you as a developer can build some really amazing apps given these APIs that you didn't think possible. The future is now"
+        },
+        {
+          "id": 152,
+          "name": "CYPRESS: WHERE AUTOMATED WEB UI TESTING ISN’T JUST FOR QA ANYMORE",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Justin James",
+          "description": "Today’s fast-moving software delivery environment emphasizes pushing value to production as quickly as possible. “Value to production” implicitly requires high quality—low quality is of little value to anyone! —which means teams need to focus on being able to specify, build, test, and deploy software effectively and quickly. Acceptance testing historically been manually intensive efforts run by a dedicated QA department, resulting in a slower pace of production releases. No longer do we have to make acceptance a manual effort that requires a dedicated QA department. With the release of Cypress, we have a new standard in front-end testing that allows every developer to create acceptance tests. Come learn how you can create fast, easy, and reliable test for anything that runs in a browser regardless of the front-end framework used. You will walk away ready to end the era of “Developers don’t write acceptance tests” and start writing acceptance tests for all of your projects."
+        },
+        {
+          "id": 153,
+          "name": "DBAS WORKING SMARTER NOT HARDER WITH POWERSHELL",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Ben Miller",
+          "description": "Do you have extra time in your day to do extra things or to make things better? Feel overworked and wish you had time to actually do all of your job? This session is all about how you can manage your servers with tools that do not involve clicking. You have probably heard the phrase in the title, and that is just what this session is all about. Smarter means that you may make more use of tools rather than clicks. Smarter has the ability to scale with automation of those tools. Join me to find out how you can work smarter not harder using PowerShell and all the tools out there to support your desire. Join me in the quest to become a PowerShell DBA."
+        },
+        {
+          "id": 154,
+          "name": "GET YOUR HEAD IN THE CLOUD",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Billy Hollis",
+          "description": "Cloud platforms such as Azure and AWS are still building their adoption, and you can find umpteen sessions on the technical details of these platforms. But, as a developer, what if your organization is still just looking at cloud capabilities? What if you’re just wondering how the cloud affects your life as a developer? This session starts with a brief assessment of what mainstream developers are really doing with the cloud now. Then it looks at some of the ways those developers will find the cloud useful in the next few years. Finally, presenter Billy Hollis brings out his crystal ball and explains upcoming cloud technology that will fuel extraordinary innovation in business apps, including things that don’t exist yet! Come get an entertaining take on how to think about current app development will evolve with the changes cloud technologies will bring."
+        },
+        {
+          "id": 155,
+          "name": "GETTING STARTED WITH DEVOPS ON AZURE",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Dan Patrick",
+          "description": "In this session the basics of DevOps as practices will be examined. Time will be spent helping you get started on moving your teams away from their traditional silos. The session with then move toward the tooling in Microsoft’s cloud and how DevOps can be implemented for different types of deployments from IaaS to PaaS. Look for a demo filled session that will help jumpstart your move to DevOps in the Cloud. Takeaways: 1. Learn Core Principals DevOps 2. Discover the DevOps Tool Chain. 3. Get jumped started on how to use DevOps tools in Azure."
+        },
+        {
+          "id": 156,
+          "name": "INCREASE YOUR .NET PRODUCTIVITY AND STREAMLINE AZURE DEVELOPMENT WITH VISUAL STUDIO 2019",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Allison Buchholtz-Au,Kendra Havens",
+          "description": "Enabling developers to be productive, collaborate effectively, and support any kind of app development – including on Azure – has always been at the core of Microsoft’s vision. In this demo-heavy session, we’ll cover what’s new in Visual Studio 2019 including the new UX redesign, code cleanup, collaborating with Live Share, new .NET refactorings, AI-assisted development with Intellicode, and so much more! By the end of this session, you’ll be able to use the latest and greatest in Visual Studio 2019 to enhance your developer productivity."
+        },
+        {
+          "id": 157,
+          "name": "LESSONS FROM THE FIELD: MIGRATING TO AN AZURE MODERN DATA WAREHOUSE",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Gareth Swanepoel",
+          "description": "Migrating any mission critical Data Warehouse can be an intimidating task. The workloads often large, complex, and under scrutiny from CXOs. In this session, we will demonstrate how our \"Success by Design\" methodology, migration tools, and specialized resources increase the likelihood of project success by bringing the right process, people and tools to bear on the project. This session is a must see if you have a Data Warehouse project in the works or coming up. We will demo and take a deep dive into the various tools which save time, improve data quality, and improve customer’s migration experience. We will also present a variety of third-party tools available to facilitate smooth migrations."
+        },
+        {
+          "id": 158,
+          "name": "LIGHTS, CAMERA, AI: INTERACTIVE CHAT BOTS",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Brian Clark",
+          "description": "Smart lights, AI and you! Sounds like fun? Come learn how to train AI to understand commands and use the results to control lights and web interfaces. We'll tie everything together with a serverless application in Azure and an open chat channel using JavaScript. You'll leave with ideas on leveraging these tools for your own creative solutions."
+        },
+        {
+          "id": 159,
+          "name": "MODERN .NET DESKTOP DEVELOPMENT IN .NET CORE 3",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Olia Gavrysh",
+          "description": ".NET Core 3 is coming and with it support for building WinForms and WPF applications for Windows Desktop. Get an in-depth look at porting desktop applications to .NET Core 3 including implications for tooling and custom controls, along with how to leverage the best of .NET Core from your desktop applications."
+        },
+        {
+          "id": 160,
+          "name": "PYTORCH FOR .NET DEVELOPERS WITH AZURE MACHINE LEARNING",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Dr. Adnan Masood",
+          "description": "PyTorch is a Python-based scientific computing package that uses the power of modern GPUS. It is quickly becoming a preferred deep learning research platform built to provide maximum flexibility and speed using dynamic graph. In this talk we will show how Pytorch can be used on Azure using Azure Machine Learning service, Data Science Virtual Machine, Azure Notebooks, and Visual Studio Code Tools for AI. We will train PyTorch models with Azure Machine Learning service, and how we can use the ONNX runtime inside of our .NET applications. ONNX is a open format to represent deep learning models that is supported by various frameworks and tools. This format makes it easier to interoperate between frameworks and to maximize the reach of your hardware optimization investments."
+        },
+        {
+          "id": 161,
+          "name": "TEMPDB: THE GOOD, THE BAD, AND THE UGLY",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Pam Lahoud",
+          "description": "If you ask 100 SQL Server DBAs what their biggest headaches are, at least 99 of them will say something to do with TempDB. Over the years, there have been many different recommendations about configuration options for TempDB and they have changed over time. The behavior of TempDB has also changed over time. What hasn't changed is the criticality of TempDB and how its proper use and configuration can have major implications in the performance of your application. In this session we will discuss some of the improvements with TempDB in the latest versions of SQL Server and what good TempDB practices look like today. We will also discuss the improvements coming in SQL Server 2019 that will unlock scalability of TempDB-heavy workloads now and into the future."
+        },
+        {
+          "id": 162,
+          "name": "VISUAL STUDIO CODE TIPS",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T14:30:00.000Z",
+          "presenters": "John Papa",
+          "description": ""
+        },
+        {
+          "id": 163,
+          "name": "WHAT'S NEW IN SQL SERVER 2019: 100% DEMOS",
+          "startsAt": "2019-06-13T14:00:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Brent Ozar",
+          "description": "You haven't installed SQL Server 2019 yet, and you don't want to sit through a bunch of slides. You want to see a series of real-world demos focusing on the features of SQL Server 2019 that will make your users happier with as little work as possible on your part. You don't have time to rewrite all your queries or learn new languages - you just want the database to go faster. I'm Brent Ozar, and I'll give you the whirlwind tour. I'll focus on just the features that make the biggest bang for the buck, things you can implement right away and see a noticeable difference. I'll show you what kinds of code will benefit the most so you can go back to the office and have an honest discussion with management about what to expect. No slides here - not even an about-me slide. Let's dive into some queries!"
+        },
+        {
+          "id": 164,
+          "name": "CLIENT TO CLOUD: SYNCHRONIZING THE IN-BROWSER DATABASE WITH THE SERVER",
+          "startsAt": "2019-06-13T14:30:00.000Z",
+          "endsAt": "2019-06-13T15:00:00.000Z",
+          "presenters": "Craig Shoemaker",
+          "description": "Working with in-browser databases gives you the opportunity to save large amounts of data without ever needing to contact the server, but for many applications the data can't just stay on the client. In Client to the Cloud, you learn to bridge the gap between local and server data by synchronizing IndexedDB to a remote database. By the end of this session you learn how to set up the databases on both sides of the network as well as strategies for dealing with changes coming from both the cloud and the client."
+        },
+        {
+          "id": 165,
+          "name": "Break",
+          "startsAt": "2019-06-13T15:00:00.000Z",
+          "endsAt": "2019-06-13T15:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 166,
+          "name": "AUTOMATED DELIVERY FOR .NET APPLICATIONS",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Javier Lozano",
+          "description": "Implementing an automated delivery process for your applications could seem like daunting, complicated task. In this session, we will cover how you can create build and deploy process that will help you streamline delivery and most importantly, make things predictable. If you're currently in the process of setting up a delivery process for your applications, you'll want to attend this sessions and participate in the conversation!"
+        },
+        {
+          "id": 167,
+          "name": "COLUMNSTORE INDEXES: A JOURNEY INTO DATA WAREHOUSING PERFORMANCE",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:30:00.000Z",
+          "presenters": "Gareth Swanepoel",
+          "description": "Come and learn how ColumnStore Indexes (CSI's), can speed up your Data Warehouse aggregations, summations and star-joins. I will be doing an intro and deep dive into the inner workings of ColumnStore indexes; how they work, key characteristics, dos and don'ts, restrictions, and more. Additionally, I will have insight into how CSI's have been updated in SQL Server 2016 and beyond. If you are a production DBA who needs to find out more about some of the additional hot features that have been included with CSI's, like batch mode processing and data segments, then this session is for you. If you are a BI DBA or developer who needs to find out how CSI's can increase the performance of your aggregations and star-joins by up to 40 times, then this session is also for you."
+        },
+        {
+          "id": 168,
+          "name": "CONQUERING CONCURRENCY",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:30:00.000Z",
+          "presenters": "Tim Chapman",
+          "description": "There is so much more to writing faster SQL Server applications than just tacking on a NOLOCK hint to queries. This session will thoroughly discuss what isolation levels mean in the SQL Server universe, how interaction between resources occurs in each isolation level as well as different adverse effects to each isolation level. The session will include the common SQL Server isolation levels as well as the lesser-known optimistic isolation levels as well as how multi-version concurrency control works with In-Memory OLTP."
+        },
+        {
+          "id": 169,
+          "name": "DRIVE INTELLIGENCE FROM TEXT COMPREHENSION IN ENTERPRISE APPS",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Dr. Adnan Masood",
+          "description": "Natural language understanding and processing has revolutionized the way we deal with unstructured data within an enterprise. This talk provides a comprehensive overview of variety of text mining techniques including Q&A (Dr. Q&A, BERT, Stanford BiDAF), classification, summarization, topic modeling, annotation, and contract analysis. Along with Microsoft Cognitive Services, the session covers how to use machine learning libraries to drive insights and intelligence in your applications and covers how to work with unstructured text and turn unstructured text into meaningful insights into mobile, web and line of business applications. In this code-focused session, we will demonstrate how to use a few lines of code to easily analyze sentiment, extract key phrases, detect topics, and detect language for any kind of text. The techniques include TF-IDF, LDA, Word2Vec, Doc2Vec, word embedding, BERT, ELMO, and BiDAF etc. to showcase their use in enterprise applications with real world use cases."
+        },
+        {
+          "id": 170,
+          "name": "MICROSOFT IDENTITY PLATFORM FOR DEVELOPERS",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Kyle Marsh",
+          "description": "Come to this session to learn how Microsoft Identity platform helps you with your app’s access and security. Topics discussed include: Multi-tenant vs single-tenant apps with Azure Active Directory and Microsoft accounts, B2C, B2B, and optimizing permissions and consent. Explore how your app fits in with external identities, and which development tools and libraries are right for your app scenario."
+        },
+        {
+          "id": 171,
+          "name": "POLYBASE++ IN SQL SERVER 2019",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:30:00.000Z",
+          "presenters": "Bob Ward",
+          "description": "What is Polybase? Launched first in SQL Server 2016, Polybase in SQL Server 2019 provides a robust data virtualization solution to reduce the need for ETL and data movement. Come learn how new data connectors work with sources like Oracle, CosmosDB, Azure SQL Database, Hadoop, and SAP HANA. Come also learn how Polybase is a central piece to the SQL Server 2019 Big Data Cluster data analytics solution."
+        },
+        {
+          "id": 172,
+          "name": "RUNNING AKS IN PROD",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Dan Patrick",
+          "description": "In this session, you will go behind the lines of a real AKS deployment into production. Lessons learned about Infrastructure, Networking, Key Vault, WAF, and AKS will be covered. Learn how we locked down the deployment from the Network Security Groups to RBAC on the containers. You will see how Azure DevOps was used to create a true end to end CI/CD for both the Application and Infrastructure. Our pain, your gain… Takeaways: 1. Best practices for deploying production application with AKS 2. Use Azure DevOps pipelines and Terraform to manage an AKS deployment 3. Secure your AKS deployment (edited) (edited)"
+        },
+        {
+          "id": 173,
+          "name": "SQL SERVER 2017 AND AZURE SQL DB: SECURITY SMACKDOWN",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:30:00.000Z",
+          "presenters": "David Pless",
+          "description": "In this session we will cover and demo the many security features in SQL Server 2017/2019 such as Row Level Security, Dynamic and Static Data Masking, Always Encrypted, Advanced Threat Detection, and the Azure Security Center covering SQL Server 2017+ and Azure SQL Database / Managed Instance. Row-Level Security enables customers to control access to rows based on the characteristics of the user executing a query. RLS enables you to implement restrictions on data row access. For example, ensuring that users can access only those data rows that are pertinent to their department, or restricting a customer's data access to only the data relevant to their company. Dynamic Data Masking limits (DDM) sensitive data exposure by masking it to non-privileged users. It can be used to greatly simplify the design and coding of security in your application. We will also cover the new capability of Static Data Masking that allows users to create a masked copy of a database. This helps organizations that need to share sensitive data across teams or with other external parties such as vendors and support. Always Encrypted is another feature designed to protect sensitive data stored in Azure SQL Database or SQL Server databases. Always Encrypted allows clients to encrypt sensitive data inside client applications and never reveal the encryption keys to the Database Engine (Azure SQL Database or SQL Server). A new capability in SQL Server 2019 is Always Encrypted with secure enclaves. With secure enclaves, Always Encrypted protects the confidentiality of sensitive data while providing in-place encryption capabilities and allows improved performance operations on encrypted columns including pattern matching and range comparisons Finally, Azure SQL Database Threat Detection provides security by detecting activities which may indicate a threat such as SQL injection attacks. The benefits of Azure Threat Detection include configuration of SQL threat detection policy, email alerts upon detection, and Azure Portal and Microsoft Excel integration. All of these technologies can be used together to create a solid defense-in-depth strategy. We will cover these security features with an in-depth, demo focused delivery covering Azure SQL Database and SQL Server 2017/2019 on-prem."
+        },
+        {
+          "id": 174,
+          "name": "THE 8 MOST COMMON WAYS DEVELOPERS GET UX WRONG",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Billy Hollis",
+          "description": "Most developers have zero training in creating effective user experiences, so it's not surprising that they make mistakes. In this session, Billy Hollis will go through the most common UX mistakes he’s seen in business applications. Some of them include crowded screens, layout that’s too static, poor use of color, and failure to visualize data. In each case, there will be an example of the problem, with one or more alternatives that move towards fixing the problem. This will be an interactive session, with attendees encouraged to rate the alternatives and suggest their own ideas, and with a healthy question and answer session at the end."
+        },
+        {
+          "id": 175,
+          "name": "THE CLOUD-NATIVE COOKBOOK: SERVERLESS, KUBERNETES, AND CONTAINERS",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Jeff Hollan",
+          "description": "How do I navigate and architect in a cloud native world? The next generation of apps will be built faster and scale further than ever before. Cloud native apps give developers the opportunity to build apps that fully take advantage of the benefits of the modern cloud. This session will help explain the key components and strengths of cloud native technology like serverless functions and Kubernetes, how they can work together, and how you can decide how best to build the apps of the future."
+        },
+        {
+          "id": 176,
+          "name": "ULTIMATE PRESENTATION FORMULA FOR NERDS",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Justin James",
+          "description": "As a techie, we need to be able to talk to more than just 1s and 0s. Talking to computers is great but we also need to be able to talk to humans and give an effective presentations if we want to be seen as the go to expert. Join me in this interactive session to get the critical techniques I used to grow from 0 talks to giving 200+ talks at over 75 events around the world. Public speaking just like talking is a skill that can be learned with the right training and mentorship. Being shy and introverted doesn't have to doom you to a life of only talking to computers even though it is really cool to talk to computers. You will walk away inspired to share your knowledge and be seen as the go to expert."
+        },
+        {
+          "id": 177,
+          "name": "YOUR .NET APP WON’T SCALE",
+          "startsAt": "2019-06-13T15:15:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Glenn Condron",
+          "description": "Developers are tasked with writing code that results in passing tests, delivered features, and blistering performance under any size load. A well-intentioned developer working on a slow app can employ a variety of tricks to increase performance - adding async, parallelism, or creative use of multiple threads. These powerful tricks are tools that can - when understood and used wisely - greatly improve the overall experience of your app. They can also be misused in such a way that they serve as time bombs that lead to intermittently crashing apps, lost data, or vulnerabilities. In this session, Glenn Condron from the .NET Core team, will show you the errors of your ways and make sense out of these techniques and when they're useful - or when they should be avoided. If you've ever found yourself awake at night worried that your recent commits have made your app better - or more brittle - but had no idea to ask, don't miss this valuable session."
+        },
+        {
+          "id": 178,
+          "name": "ANGULAR: REACTIVE FORMS",
+          "startsAt": "2019-06-13T15:45:00.000Z",
+          "endsAt": "2019-06-14T04:15:00.000Z",
+          "presenters": "Doguhan Uluca",
+          "description": "Reactive forms is the best way to write forms in Angular. In this workshop, we will implement a multi-step form with varied inputs including reusable form groups, date pickers, drop-downs with type-ahead support, form arrays, custom form controls with input masking implementing ControlValueAccessor and doing validation as your form spans multiple components."
+        },
+        {
+          "id": 179,
+          "name": "Lunch",
+          "startsAt": "2019-06-14T04:15:00.000Z",
+          "endsAt": "2019-06-13T17:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 180,
+          "name": "Lunch",
+          "startsAt": "2019-06-14T04:30:00.000Z",
+          "endsAt": "2019-06-13T17:30:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 181,
+          "name": "Azure Tips and Panel with the Azure Team",
+          "startsAt": "2019-06-13T17:30:00.000Z",
+          "endsAt": "2019-06-13T18:45:00.000Z",
+          "presenters": "John Papa",
+          "description": "Keynotejoh"
+        },
+        {
+          "id": 182,
+          "name": "SQL Server's Path Towards an Intelligent Database",
+          "startsAt": "2019-06-13T17:30:00.000Z",
+          "endsAt": "2019-06-13T18:45:00.000Z",
+          "presenters": "Pedro Lopes",
+          "description": "Keynote by Pedro Lopez"
+        },
+        {
+          "id": 183,
+          "name": "Ice Cream Break",
+          "startsAt": "2019-06-13T18:45:00.000Z",
+          "endsAt": "2019-06-13T19:15:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 184,
+          "name": "Ice Cream Break",
+          "startsAt": "2019-06-13T18:45:00.000Z",
+          "endsAt": "2019-06-13T19:00:00.000Z",
+          "presenters": "",
+          "description": ""
+        },
+        {
+          "id": 185,
+          "name": "SQLintersection Closing Panel & RunAs Radio Recording",
+          "startsAt": "2019-06-13T19:00:00.000Z",
+          "endsAt": "2019-06-13T19:45:00.000Z",
+          "presenters": "Richard Campbell",
+          "description": "Hosted by Richard Campbell"
+        },
+        {
+          "id": 186,
+          "name": "Cloud & AI Panel",
+          "startsAt": "2019-06-13T19:15:00.000Z",
+          "endsAt": "2019-06-13T19:45:00.000Z",
+          "presenters": "Ciprian Jichici,Zoiner Tejada",
+          "description": "Panel hosted by Zoiner Tejada and Ciprian Jichici"
+        },
+        {
+          "id": 187,
+          "name": "Closing and Prizes",
+          "startsAt": "2019-06-13T20:00:00.000Z",
+          "endsAt": "2019-06-13T20:30:00.000Z",
+          "presenters": "Carl Franklin,Richard Campbell",
+          "description": "Hosted by Carl Franklin and Richard Campbell"
+        },
+        {
+          "id": 188,
+          "name": "A PAINLESS INTRODUCTION TO USER EXPERIENCE DESIGN",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Billy Hollis",
+          "description": "You know you should care about UX design. But you likely think it's a boring subject and you're not suited for it anyway. You're probably wrong on both counts. Most developers can learn the basics of UX design, and if you do it in this workshop, you'll have fun along the way. What other workshop will feature pink flamingos, Mr. Meeseeks, asteroids, moon-walking bears, Creepy Watson, and a developer snorting code off the screen? So come and learn the design principles that help you judge good and bad design, with visuals that ensure you'll remember them, plus a lightweight design process to help you put those principles to use. Come ready to participate in hands-on design exercises, alone and in groups. Come have some fun, and walk out with some tangible ways to make your users' lives better."
+        },
+        {
+          "id": 189,
+          "name": "ANGULAR ARCHITECTURE",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Dan Wahlin,John Papa",
+          "description": "Workshop will have some hands-on aspects. Bring your own fully charged laptop. A lot of questions typically come up as developers write application code. For example, are you following established best practices? How easy will it be to maintain and refactor the application in the future? If you're starting a new application from scratch, what application architecture should be used? These types of questions are common when building any type of application especially when you're focused on meeting a deadline. While there's a lot of information out there about the core concepts of Angular, very little focuses on architectural concepts, best practices, and how to solve some of the more challenging tasks that come up. That's the purpose of this workshop. The Angular Architecture and Best Practices workshop will provide guidance to help you think through the process of building a solid application architecture that is easy to refactor and maintain. Some of the topics covered include: • Planning your application architecture • General best practices • Structuring features and modules • Component communication • Using Subjects • State management • Performance optimizations • More… Come join us for a day of in-depth discussions and hands-on examples of different architecture concepts and best practices that can be applied to your Angular applications."
+        },
+        {
+          "id": 190,
+          "name": "APPLICATION BUILDING WITH ASP.NET CORE 2.2",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Jeff Fritz",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. In this workshop, Jeff from the ASP.NET Core team will guide you through building multi-tier applications using ASP.NET Core. You'll learn about the latest improvements in 2.2 to build APIs, with Open API and authorization support, then build a front-end app and deploy the entire thing to Azure, making optimizations for the cloud environment along the way. Attendees will need to bring a fully-charged laptop with the following setup: • Windows: Visual Studio 2017, 2019 or Visual Studio Code • Mac/Linux: VS Code"
+        },
+        {
+          "id": 191,
+          "name": "AZURE IOT BOOTCAMP",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Carey Payette,Lino Tadros",
+          "description": "Workshop will have hands-on aspects. Bring your own fully charged laptop. While IoT is a relative newcomer to the technology landscape, it is important to note that it is not emerging, it is already here! IoT is a booming market which is growing at an incredible pace. According to research published by Zinnov, they estimate IoT expenditures will increase from $201 billion in 2018 to $500 billion in 2023. Other lofty projections from large companies such as Accenture, GE and CISCO predict that it will become a $14 trillion dollar industry by 2030. In the near future, use of IoT will be assumed, and practices will differentiate by their skill in the pragmatic application of IoT. Interestingly, the IoT market today is still largely open, with many organizations just beginning to understand the capabilities and explore the use of IoT. Of 743 survey participants in an MDC Research study, only 16% of partners reported having an IoT solution in production today. This makes IoT a lucrative market for business and consultancies alike. In this workshop, you will learn about Azure IoT offerings while building a prototype device from scratch and connecting it to the cloud. We will begin by imaging a Raspberry Pi development board with Windows IoT Core and build out a hardware solution using a sensor. We will then build a UWP application that will allow us to read and view the values obtained from the sensor. From there we will register and connect our device to Azure using the IoT Hub. Telemetry data will start flowing to Azure where we will see the values being received in real time, and develop alerts and reports that make sense based on this data. We will utilize IoT Twins and Edge in demonstrating the use of the Cloud and IoT in a particle fashion. We will also discuss the importance of other Azure services in an IoT system such as analytics, dashboards, mobile applications, and artificial intelligence. Join us in this immersive, hands-on IoT workshop and learn by doing. What you need to bring to the bootcamp: • micro-usb cabl • MicroSD card (adapter) - 8GB Minimum, Class 10 or better • SD Card reader • USB keyboard(required) • USB Mouse (optional) • Microsoft Azure Account • Small Philips head screwdriver (possibly depends on screen) • Visual Studio 2017 or 2019 community (all updates installed) Every attendee will receive a Raspberry Pi3, Water sensor and other hardware needed to build an IoT Device to communicate with their own IoTHub in the Azure Cloud."
+        },
+        {
+          "id": 192,
+          "name": "PWA: USING THE WEB PLATFORM POWER TO THE FULLEST",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Maxim Salnikov",
+          "description": "Bring your own fully charged laptop, as this workshop will have hands-on aspects. Level: 300 Web Platform is amazing. It becomes more and more performant, feature-rich while keeping its universal nature. We call “progressive” the web apps we build using the latest browser APIs, allowing us to achieve a totally new level of the user experience. On this workshop, we’ll focus on what Workbox as a network tasks automation library contributes to the PWA idea. During the full day of training you will learn about: PWA concept pillars, Service Worker API fundamentals, current platform’s PWA support (and workarounds when needed), and Workbox library - the industry standard in the automation of PWA tasks. I share lots of practical tips & tricks, both technical and UX, review real-life PWA examples, explain how to avoid common pitfalls, and how to deal with edge cases. On the practical side, I empower you to build a Progressive Web Application. We start from the “regular” application, and in the form of discrete, documented steps I guide you on how to add PWA features one-by-one using Workbox. As a result, everyone will have a fully-featured, installable PWA ready to delight its users by offline experience, optimized networking and push notifications. We are not about hitting the numbers – we are about providing the extra value for our users, but 100% score in the Lighthouse is also guaranteed! After all, for you to get prepared for the next steps, I introduce what’s new coming to PWA-related APIs and what’s on Workbox roadmap. Course overview: • Introduction to PWA and Workshop Setup • Introduction to Workbox • Creating MVP PWA • External resources caching • Setting up runtime caching • Web App Manifest and Adding to Home Screen • Implementing push notifications • Replaying offline requests using Background sync • Providing better UX for app update flow • Future development of PWA and Workbox • Questions and answers Expected level: • Basic knowledge of JavaScript is required • The knowledge of any framework(s) is not required Pre-requisites: You need a laptop with installed (latest stable versions) Git, Node, NPM, and browsers (latest stable versions) Chrome / Firefox / Edge (on Windows). A week before the workshop you will receive a link with the initial repo to clone and detailed setup instructions."
+        },
+        {
+          "id": 193,
+          "name": "SQL SERVER REPORTING SERVICES AND POWER BI REPORTING SOLUTIONS",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "David Pless,Tim Radney",
+          "description": "Join Microsoft Technical Specialist David Pless and Principal Consultant Tim Radney as we explore the capabilities of Power BI desktop, hybrid reporting, and the new capabilities of Power BI Premium and Report Server. In today’s ever maturing world of enterprise reporting, self-service business intelligence, and data science we must be ready to quickly analyze and visualize data anywhere. With Power BI, self-service capabilities has expanded to all data-workers beyond enterprise reporting to mobile platforms, embedded application solutions, as well as advanced analytics. With Power BI Premium and Report Server, we now have a scalable solution where dedicated hardware powers scheduled cloud-based reporting and where Power BI Report Server brings self-service cloud capabilities on-prem. In this workshop, we will focus on these capabilities along with SQL Server Reporting Services and Mobile Report Publisher. We will cover improvements to paginated reporting, interactive and mobile reporting, KPIs, dashboards, and other new features in SQL Server 2017 / 2019. We will demo dashboard brand control, Microsoft Office integration, performance analysis and best practices, monitoring reporting performance, and High Availability and scale-out for reporting architectures. We will also cover application scenarios with Power BI embedded, Power BI Apps, and scenarios with Advanced Analytics including forecasting, built-in insights, data cluster analysis, and Narrative Science. Key areas include SSRS and Power BI Report Server features, Power BI reports and dashboards, report scheduling and deployment, custom visuals, and application use cases. We will focus on the latest features and the most impactful reporting capabilities along with best practices from the field."
+        },
+        {
+          "id": 194,
+          "name": "ZERO TO HERO: FASTER SQL QUERY PERFORMANCE",
+          "startsAt": "2019-06-14T13:00:00.000Z",
+          "endsAt": "2019-06-14T20:00:00.000Z",
+          "presenters": "Jonathan Kehayias",
+          "description": "A lot of performance problems with SQL Server can often be avoided through proper design and coding. This full day seminar will look at common design and coding patterns that introduce performance problems in SQL Server. The session will highlight important aspects of SQL Server that developers should know to get faster performance and avoid having performance problems. If you want to know how to identify performance problems, anti-patterns to avoid, and alternatives that scale you won't want to miss this session. We will look at how to use the plan cache, and/or Query Store to find existing performance anti-patterns and use the information contained to identify common problems about the queries that are running against the system. By focusing on real-world examples with reproducible workloads, you will easily be able to see the impact of simple changes that eliminate common performance problems and learn how to fix them quickly for improved performance from the least amount of effort."
+        }
+      ]
+    }
+  ]
+}
