@@ -1,127 +1,127 @@
 {
   "program": {
     "fileInfos": {
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es6.d.ts": {
         "version": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da",
         "signature": "c180f01a2aaac7d733001fa1db20f881dc83cf33096b674a1546ca26762e69da"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
-        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88",
+        "signature": "c8665e66018917580e71792b91022bcaf53fb946fab4aaf8dfb0738ed564db88"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.d.ts": {
         "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
         "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.d.ts": {
         "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
         "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.d.ts": {
         "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
         "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.d.ts": {
         "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
         "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
-        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
-        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376",
+        "signature": "6994c583b66862deca24d7bbf77297d95b9d3da8160dbd9beef6b847cf7c1376"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
-        "version": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a",
-        "signature": "eb843da29336c7d5840bb439b24cf68a4a1652fd01c6e4e66ec74d8b136e944a"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3",
+        "signature": "4c892766803cef795d73d69aee436dc7a80157163e0cf35e6d0e86917cbd42f3"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
         "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
         "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.scripthost.d.ts": {
         "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
         "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts": {
-        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
-        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d",
+        "signature": "384f66a3422d80014c51de2682159bb26f1e35854029880ccd5f6d1f00e6a36d"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
         "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
         "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
         "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
         "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
-        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
-        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4",
+        "signature": "4d1f39313a169b8599b8817688f504b56ba8204c2ebafd03f66ff77ddb1899a4"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
-        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
-        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe",
+        "signature": "7c07d934680d0e33275a44d22fb11a4ff31d46c8c26a8d056828a478753f1efe"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
         "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
         "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
         "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
         "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
         "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
         "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
         "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
         "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
         "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
         "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.object.d.ts": {
         "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
         "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
         "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
         "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.string.d.ts": {
         "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
         "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
         "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
         "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
         "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
         "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
         "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
         "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
         "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
         "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
         "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
         "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
         "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
         "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
         "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
         "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
       },
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
         "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
         "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
       },
@@ -1074,7 +1074,7 @@
         "signature": "136298dba904e031775dc426a4013a4d99dbde78faa6dd989afaf8890abcc687"
       },
       "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts": {
-        "version": "127ffede976bf98644b02098b6fce24a8e9f2e34d1a967b15fc8ee26c3d0bb93",
+        "version": "8bf9c0f4f35f72cd2cf10a5cc9f6dd7b961575410f3f9c3aef569ca98c4c908a",
         "signature": "5a5a51b0148a1b2b9447bc1c6fe34a75866c9e3696b6550bf9336f1d15b94e5e"
       },
       "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.ts": {
@@ -1202,67 +1202,7 @@
         "signature": "19e9aee9dcbcb693ecc8c72c4a0022162ffccfe6c79dc0cd643cd40e0f2355db"
       },
       "c:/dev/nest-js/conferences/src/main.ts": {
-        "version": "e25d9bd8f80b6ffbcc8826ed1b407e747e4fbe346c5bab62cbe5837da4eeb189",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts": {
-        "version": "ca248f650c19abc031e2aaafa41fceb524378b1a2249905b44d1c8e4148fcb52",
-        "signature": "ca248f650c19abc031e2aaafa41fceb524378b1a2249905b44d1c8e4148fcb52"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts": {
-        "version": "18241cf5b30bbc192d8caad9432f9d70fef222bbe5082fb4a46f58aeb7fc4abb",
-        "signature": "18241cf5b30bbc192d8caad9432f9d70fef222bbe5082fb4a46f58aeb7fc4abb"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts": {
-        "version": "930e8338212d259acfb8cc06097f8d57b0d15190893bca2cd6f24fbaf428b758",
-        "signature": "930e8338212d259acfb8cc06097f8d57b0d15190893bca2cd6f24fbaf428b758"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts": {
-        "version": "ba8cf606aee66bd27748f6b51776ebc6117f8abdaee40052e890e697baff8e0b",
-        "signature": "ba8cf606aee66bd27748f6b51776ebc6117f8abdaee40052e890e697baff8e0b"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts": {
-        "version": "9388b0ffb5ab94e23e0165a96985091a133e3632e5f92fd72b14df7d73b3804d",
-        "signature": "9388b0ffb5ab94e23e0165a96985091a133e3632e5f92fd72b14df7d73b3804d"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts": {
-        "version": "a397d00d0454ddb1cae255c19bde344f78b8b93512cff09b98b7e148d889b6e6",
-        "signature": "a397d00d0454ddb1cae255c19bde344f78b8b93512cff09b98b7e148d889b6e6"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts": {
-        "version": "927c6cf84c59b3ca7fdb6d3cbc3aa986193337b6a9758994575106f6073ee737",
-        "signature": "927c6cf84c59b3ca7fdb6d3cbc3aa986193337b6a9758994575106f6073ee737"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts": {
-        "version": "0a33b8bff876368beef794f5f08e8221103efa394f9e0e27e19f557a8cdaa0a0",
-        "signature": "0a33b8bff876368beef794f5f08e8221103efa394f9e0e27e19f557a8cdaa0a0"
-      },
-      "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.spec.ts": {
-        "version": "f566a94686cc65d1808f205dbe8a97e6d76af40770ad64de16b91f044efacde7",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
-      },
-      "c:/dev/nest-js/conferences/src/controllers/sessions/sessions.controller.spec.ts": {
-        "version": "de6d539e3e70d4ab0f66e5cf5e34a990d3ef501b990dd8476d2264f8cbfc3c98",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
-      },
-      "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.spec.ts": {
-        "version": "177fa465611de07f1ac8404d37daa71d56edcd9b99dfe2febf527998932be960",
-        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts": {
-        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
-        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": {
-        "version": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5",
-        "signature": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5"
-      },
-      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": {
-        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
-        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
-      },
-      "c:/dev/nest-js/conferences/test/app.e2e-spec.ts": {
-        "version": "17773f1aca212b56f640a398f451d27b154f3ac4ff6f133034d3d66f41feffa0",
+        "version": "519e902f3f957e1b78ccb8a40ffa0a8777c0688e66912626c8e391a8e8cf417a",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "c:/dev/nest-js/conferences/node_modules/@types/connect/index.d.ts": {
@@ -1272,6 +1212,10 @@
       "c:/dev/nest-js/conferences/node_modules/@types/body-parser/index.d.ts": {
         "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
         "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+      },
+      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts": {
+        "version": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56",
+        "signature": "16b7fb094ffaa5d270f934e7406e8baee2f8245cfabf6dcc20f693389f005f56"
       },
       "c:/dev/nest-js/conferences/node_modules/@types/range-parser/index.d.ts": {
         "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
@@ -1300,6 +1244,14 @@
       "c:/dev/nest-js/conferences/node_modules/@types/json5/index.d.ts": {
         "version": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538",
         "signature": "96d14f21b7652903852eef49379d04dbda28c16ed36468f8c9fa08f7c14c9538"
+      },
+      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": {
+        "version": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5",
+        "signature": "e8bd972c3895277d7d9e702262a0408fbe36bb69c733bf26f9f15c396cad34c5"
+      },
+      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": {
+        "version": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3",
+        "signature": "79e8fe7df47b9eee82aba6de491c17ed11759171ed0ee0d804e83971b2a17fc3"
       }
     },
     "options": {
@@ -1313,130 +1265,131 @@
       "outDir": "C:/Dev/nest-js/conferences/dist",
       "baseUrl": "C:/Dev/nest-js/conferences/",
       "incremental": true,
-      "configFilePath": "C:/Dev/nest-js/conferences/tsconfig.json"
+      "project": "tsconfig.build.json",
+      "configFilePath": "C:/Dev/nest-js/conferences/tsconfig.build.json"
     },
     "referencedMap": {
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es6.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.scripthost.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2904,6 +2857,7 @@
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
         "c:/dev/nest-js/conferences/src/models/conference.interface.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/path.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3125,107 +3079,6 @@
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/application-config.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/injector/container.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/injector/module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/modules/module-metadata.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.spec.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts",
-        "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts",
-        "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/src/controllers/sessions/sessions.controller.spec.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts",
-        "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts",
-        "c:/dev/nest-js/conferences/src/controllers/sessions/sessions.controller.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.spec.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts",
-        "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/https.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/stream.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/test/app.e2e-spec.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts",
-        "c:/dev/nest-js/conferences/src/app.module.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/dev/nest-js/conferences/node_modules/@types/connect/index.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/http.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
@@ -3236,6 +3089,10 @@
         "c:/dev/nest-js/conferences/node_modules/@types/connect/index.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/http.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3275,130 +3132,144 @@
       "c:/dev/nest-js/conferences/node_modules/@types/json5/index.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": [
+        "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/https.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/stream.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": [
+        "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ]
     },
     "exportedModulesMap": {
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es6.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es5.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.iterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.scripthost.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.core.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.object.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.string.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -3431,53 +3302,6 @@
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/serializer/index.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/services/index.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/utils/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/microservices/microservice-configuration.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/microservices/nest-microservice-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/nest-application-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/type.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/application-config.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/injector/container.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/injector/module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/modules/module-metadata.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4563,11 +4387,6 @@
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/injectable.interface.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/middleware/nest-middleware.interface.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
@@ -4671,6 +4490,20 @@
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/globals.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts"
       ],
+      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": [
+        "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/https.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/stream.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": [
+        "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/dev/nest-js/conferences/node_modules/@types/express-serve-static-core/index.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/http.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/events.d.ts",
@@ -4702,20 +4535,6 @@
       "c:/dev/nest-js/conferences/node_modules/@types/connect/index.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/http.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/https.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/stream.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/index.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -4932,10 +4751,6 @@
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts": [
-        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -5182,37 +4997,37 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.object.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.string.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.intl.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.intl.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.promise.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.intl.d.ts",
-      "c:/users/mikej/appdata/roaming/npm/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es6.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
       "c:/dev/nest-js/conferences/node_modules/reflect-metadata/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/cache/cache.constants.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/interfaces/abstract.interface.d.ts",
@@ -5483,31 +5298,19 @@
       "c:/dev/nest-js/conferences/node_modules/@nestjs/core/services/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@nestjs/core/index.d.ts",
       "c:/dev/nest-js/conferences/src/main.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by-factory-options.interface.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/core/metadata-scanner.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/testing-module.builder.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/override-by.interface.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/interfaces/index.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/test.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@nestjs/testing/index.d.ts",
-      "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.spec.ts",
-      "c:/dev/nest-js/conferences/src/controllers/sessions/sessions.controller.spec.ts",
-      "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.spec.ts",
-      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts",
-      "c:/dev/nest-js/conferences/test/app.e2e-spec.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/connect/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/body-parser/index.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/@types/cookiejar/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/range-parser/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/express-serve-static-core/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/mime/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/serve-static/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/express/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@types/jest/index.d.ts",
-      "c:/dev/nest-js/conferences/node_modules/@types/json5/index.d.ts"
+      "c:/dev/nest-js/conferences/node_modules/@types/json5/index.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/@types/superagent/index.d.ts",
+      "c:/dev/nest-js/conferences/node_modules/@types/supertest/index.d.ts"
     ]
   },
-  "version": "3.5.2"
+  "version": "3.4.3"
 }

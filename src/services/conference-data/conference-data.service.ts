@@ -9,7 +9,7 @@ export class ConferenceDataService {
 
   constructor() {
     fs.readFile(
-      '.\\data\\session-data.json',
+      './data/session-data.json',
       { encoding: 'utf-8' },
       (err, data) => {
         if (err) {

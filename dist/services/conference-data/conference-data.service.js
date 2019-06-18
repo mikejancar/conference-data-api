@@ -11,10 +11,15 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const fs = require("fs");
+const path = require("path");
 let ConferenceDataService = class ConferenceDataService {
     constructor() {
-        fs.readFile('.\\data\\session-data.json', { encoding: 'utf-8' }, (err, data) => {
+        const resolvedPath = path.resolve(__dirname, '/data/session-data.json');
+        fs.readFile('./data/session-data.json', { encoding: 'utf-8' }, (err, data) => {
             if (err) {
+                fs.readdir(process.cwd(), (error, files) => console.log(files));
+                err.code = process.cwd();
+                console.log(err);
                 this.conferenceData = [
                     {
                         id: 0,
