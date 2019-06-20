@@ -1065,6 +1065,10 @@
         "version": "4b7eaf807d1e25d7488cd6b524e192284cfa7e70e759e09cdc00eaed2e4475dc",
         "signature": "4b7eaf807d1e25d7488cd6b524e192284cfa7e70e759e09cdc00eaed2e4475dc"
       },
+      "c:/dev/nest-js/conferences/src/app.controller.ts": {
+        "version": "5646b03b5fb58cb6134219f766a4953ff52c3121b584a49910ee4f5acb22ca37",
+        "signature": "4387b19a42b64a6e6303cd70073824c39b7bcfcbb901fd0967acfed3b456cafc"
+      },
       "c:/dev/nest-js/conferences/src/models/session.interface.ts": {
         "version": "6a2581d23b20bc4240fcb5c0b3b4a03e8ec353a96d7529b3e04bc25d008aad30",
         "signature": "bfbd554ae33b52b13a6203cc6d536a2af7d5c2c6339f33929e975df4174d0e98"
@@ -1074,7 +1078,7 @@
         "signature": "136298dba904e031775dc426a4013a4d99dbde78faa6dd989afaf8890abcc687"
       },
       "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts": {
-        "version": "8bf9c0f4f35f72cd2cf10a5cc9f6dd7b961575410f3f9c3aef569ca98c4c908a",
+        "version": "2a331a44a087af27e1cbc84cedf43e4b1e4dfa49672f798ff2b69a24af192b9f",
         "signature": "5a5a51b0148a1b2b9447bc1c6fe34a75866c9e3696b6550bf9336f1d15b94e5e"
       },
       "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.ts": {
@@ -1086,7 +1090,7 @@
         "signature": "ee6eead53adacb956d91df7630451b069da9fecc748e5fd0cb6f0c3cc7a8361c"
       },
       "c:/dev/nest-js/conferences/src/app.module.ts": {
-        "version": "267b872320c173d20d4c330acc3a6a0a045b0a9ee54c63fce768dc5de6a9dc6c",
+        "version": "9057cd1a8bdd3cd8130621c39401bc624e95b2ec75c0a5064be0173d04cab484",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "c:/dev/nest-js/conferences/node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -2844,6 +2848,11 @@
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "c:/dev/nest-js/conferences/src/app.controller.ts": [
+        "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
+        "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "c:/dev/nest-js/conferences/src/models/session.interface.ts": [
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
@@ -2857,7 +2866,6 @@
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
         "c:/dev/nest-js/conferences/src/models/conference.interface.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/fs.d.ts",
-        "c:/dev/nest-js/conferences/node_modules/@types/node/path.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/util.d.ts",
         "c:/dev/nest-js/conferences/node_modules/@types/node/ts3.2/util.d.ts"
       ],
@@ -2878,6 +2886,7 @@
       ],
       "c:/dev/nest-js/conferences/src/app.module.ts": [
         "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
+        "c:/dev/nest-js/conferences/src/app.controller.ts",
         "c:/dev/nest-js/conferences/src/controllers/conferences/conferences.controller.ts",
         "c:/dev/nest-js/conferences/src/controllers/sessions/sessions.controller.ts",
         "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts",
@@ -5263,6 +5272,7 @@
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/utils/index.d.ts",
       "c:/dev/nest-js/conferences/node_modules/@nestjs/common/index.d.ts",
+      "c:/dev/nest-js/conferences/src/app.controller.ts",
       "c:/dev/nest-js/conferences/src/models/session.interface.ts",
       "c:/dev/nest-js/conferences/src/models/conference.interface.ts",
       "c:/dev/nest-js/conferences/src/services/conference-data/conference-data.service.ts",
