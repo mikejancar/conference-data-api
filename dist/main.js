@@ -13,6 +13,12 @@ const app_module_1 = require("./app.module");
 function bootstrap() {
     return __awaiter(this, void 0, void 0, function* () {
         const app = yield core_1.NestFactory.create(app_module_1.AppModule);
+        yield app.use((req, res, next) => {
+            res.header('Access-Control-Allow-Origin', '*');
+            res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+            res.header('Access-Control-Allow-Headers', 'Content-Type, Accept');
+            next();
+        });
         yield app.listen(process.env.PORT || 3000);
     });
 }
