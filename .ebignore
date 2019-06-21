@@ -1,0 +1,13 @@
+/.elasticbeanstalk
+/.git
+/.vscode
+/node_modules
+/src
+/test
+
+.ebignore
+.gitignore
+.prettierrc
+n*.json
+README.md
+t*.json
